@@ -1,0 +1,4 @@
+http://www.idxdata.co.id/Download_Data/Daily/Stock_Summary/SS191018.zip
+http://www.idxdata.co.id/Download_Data/Daily/Stock_First_Trx/SO191018.zip
+http://www.idxdata.co.id/Download_Data/Daily/Foreign_Avail/FI191018.zip
+http://www.idxdata.co.id/Market_Summary/Stock_Quotation/SQ191018.TXT

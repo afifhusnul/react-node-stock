@@ -1,4 +1,4 @@
-# react-node-stock
+# React-node-stock tools
 
 This is my tool to download stock info file from http://www.idxdata.co.id/
 These tools was developed with NodeJS as backend and ReactJS as front end
