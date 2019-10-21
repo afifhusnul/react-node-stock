@@ -36,5 +36,3 @@ awk '{print substr($0,7,4)","substr($0,126,7)}' $tempFile4 > $file4
 sed 's/ //g' $file4 > $tempFile4 &&  head -n -2  $tempFile4 > $file4
 #/usr/bin/rm $tempFile4
 #/usr/bin/rm $file4 &&  /usr/bin/mv $tempFile4 $file4
-
-
