@@ -15,8 +15,10 @@ dwl_4=Market_Summary/Stock_Quotation/SQ
 
 #----------- Define Download Folder
 dbf2csv=/home/msa/www/stock/new/scripts/dbf2csv.py
+loadData=/home/msa/www/stock/new/scripts/loadPg.sh
 baseFolder=/home/msa/www/stock/new/bei-files
 
+fileMasterStock=$baseFolder/insert/stockMaster.csv
 file1=$baseFolder/insert/stockTrxIdx.csv
 file2=$baseFolder/insert/stockTrxOpen.csv
 file3=$baseFolder/insert/stockTrxNbsa.csv
@@ -49,7 +51,7 @@ if wget -S --spider $baseUrl/$dwl_1$dateDwl.zip 2>&1 | grep -q 'Remote file exis
     echo "Url $baseUrl/$dwl_1$dateDwl.zip does not exist!"
 else
     echo "Found $baseUrl/$dwl_1$dateDwl.zip, going to fetch it"
-    wget -i $baseFolder/siap.txt
+    wget -i $baseFolder/siap.txt -P $baseFolder
 
 	#----------- Processing SS File
 	/usr/bin/unzip $baseFolder/$fileSS$dateDwl.zip -d $baseFolder > /dev/null
@@ -58,7 +60,10 @@ else
 	$dbf2csv $baseFolder/$fileSS$dateDwl.dbf
 	/usr/bin/rm $baseFolder/$fileSS$dateDwl.dbf
 	#------------------ Master Stock
-	awk -F',' 'NR>1{print $2","$1","0","$5","$7","$8","$9","0","0","0","0","0}' $baseFolder/$fileSS$dateDwl.csv > $file1
+	awk -F',' 'NR>1{print $2","$3}' $baseFolder/$fileSS$dateDwl.csv > $fileMasterStock
+	awk -F',' 'NR>1{print $2","$1","0","$5","$6","$7","$8","$9","0","0","0","0}' $baseFolder/$fileSS$dateDwl.csv > $file1
+	sed 's/\.0//g' $file1 > $baseFolder/insert/myFile.txt
+	/usr/bin/cat $baseFolder/insert/myFile.txt > $file1
 
 
 	#----------- Processing SO File
@@ -70,6 +75,8 @@ else
 
 	#------------------ Open Stock
 	awk -F',' 'NR>1{print $2","$1","$4}' $baseFolder/$fileSO$dateDwl.csv > $file2
+	sed 's/\.0//g' $file2 > $baseFolder/insert/myFile.txt
+	/usr/bin/cat $baseFolder/insert/myFile.txt > $file2
 
 
 	#----------- Processing FI File
@@ -81,12 +88,14 @@ else
 
 	#------------------ NBSA Stock
 	awk -F',' 'NR>1{print $1",""'$fullDt'"","$5","$6}' $baseFolder/$fileFI$dateDwl.csv > $file3
+	sed 's/\.0//g' $file3 > $baseFolder/insert/myFile.txt
+	/usr/bin/cat $baseFolder/insert/myFile.txt > $file3
 
 
 	#----------- Processing SQ/Freq File
 	/usr/bin/cp $baseFolder/$fileSQ$dateDwl.TXT $baseFolder/insert/stockTrxFreq.txt
 	/usr/bin/sed -e '1,12d' $d < $file4 > $baseFolder/insert/stockTrxFreq_1.txt && /usr/bin/rm $baseFolder/insert/stockTrxFreq.txt
-	/usr/bin/awk '{print substr($0,7,4)","substr($0,126,7)}' $baseFolder/insert/stockTrxFreq_1.txt > $baseFolder/insert/stockTrxFreq.txt && /usr/bin/rm $baseFolder/insert/stockTrxFreq_1.txt
+	/usr/bin/awk '{print substr($0,7,7)","substr($0,126,7)}' $baseFolder/insert/stockTrxFreq_1.txt > $baseFolder/insert/stockTrxFreq.txt && /usr/bin/rm $baseFolder/insert/stockTrxFreq_1.txt
 	/usr/bin/sed 's/ //g' $baseFolder/insert/stockTrxFreq.txt > $baseFolder/insert/stockTrxFreq_1.txt &&  /usr/bin/rm $baseFolder/insert/stockTrxFreq.txt
 	head -n -2 $baseFolder/insert/stockTrxFreq_1.txt > $baseFolder/insert/stockTrxFreq.txt && /usr/bin/rm $baseFolder/insert/stockTrxFreq_1.txt
 	awk -F',' '{print $1",""'$fullDt'"","$2}' $baseFolder/insert/stockTrxFreq.txt > $baseFolder/insert/stockTrxFreq_1.txt 
@@ -96,5 +105,6 @@ else
 	#----------- List file
 	ls -l $baseFolder && ls -l $baseFolder/insert
 
-
+	#----------- Load Data
+	$loadData
 fi
