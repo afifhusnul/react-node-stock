@@ -52,7 +52,7 @@ OMG
 echo " ------------- Table Freq ------------"
 ${PSQL} -U ${THE_USER} ${THE_DB} <<OMG
 TRUNCATE ${THE_TABLE4};
-\COPY ${THE_TABLE4} FROM '${THE_FILE4}' delimiter ',' csv;
+\COPY ${THE_TABLE4} FROM '${THE_FILE4}' delimiter '|' csv;
 OMG
 
 #------------------- Refresh SP

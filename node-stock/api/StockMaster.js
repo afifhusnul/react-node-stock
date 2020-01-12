@@ -15,7 +15,8 @@ router.get('/', (req, res) => {
 });
 
 router.get('/:id', (req, res, next) => {
-  queries.getOne(req.params.id).then(masterStock => {
+  const input = req.params.id.toUpperCase();
+  queries.getOne(input).then(masterStock => {
     if(masterStock) {
       //res.json(masterStock);
       res.json(config.rest.createResponse(200, masterStock, undefined, undefined));

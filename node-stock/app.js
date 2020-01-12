@@ -27,6 +27,9 @@ app.use(function(req, res, next) {
 });
 
 // Api list
+const masterStockData = require('./api/StockData');
+app.use('/api/stockdata', masterStockData);
+
 const masterStock = require('./api/StockMaster');
 app.use('/api/stockmaster', masterStock);
 
@@ -41,6 +44,9 @@ app.use('/api/ranking', rankingStock);
 
 const reversalStock = require('./api/StockReversal');
 app.use('/api/reversal', reversalStock);
+
+const infoResSupportStock = require('./api/StockResSupport');
+app.use('/api/stockinfo', infoResSupportStock);
 
 
 // catch 404 and forward to error handler

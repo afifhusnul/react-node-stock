@@ -12,35 +12,32 @@ function isValidId(req, res, next) {
 
 router.get('/', (req, res) => {
   queries.getAll().then(stockBear => {
-    //res.json(StockBear);
+    // res.json(stockBear);
     res.json(config.rest.createResponse(200, stockBear, undefined, undefined));
   });
 });
 
 router.get('/1', (req, res) => {
-  queries.getAll1().then(stockBear1 => {
-    //res.json(StockBear);
+  queries.getAll1().then(stockBear1 => {    
     res.json(config.rest.createResponse(200, stockBear1, undefined, undefined));
   });
 });
 
 router.get('/2', (req, res) => {
-  queries.getAll2().then(stockBear2 => {
-    //res.json(StockBear);
+  queries.getAll2().then(stockBear2 => {    
     res.json(config.rest.createResponse(200, stockBear2, undefined, undefined));
   });
 });
 
 router.get('/3', (req, res) => {
-  queries.getAll3().then(stockBear3 => {
-    //res.json(StockBear);
+  queries.getAll3().then(stockBear3 => {    
     res.json(config.rest.createResponse(200, stockBear3, undefined, undefined));
   });
 });
 
 router.get('/:id', isValidId, (req, res, next) => {
   queries.getOne(req.params.id).then(stockBear => {
-    if(StockBear) {
+    if(stockBear) {
       //res.json(StockBear);
       res.json(config.rest.createResponse(200, stockBear, undefined, undefined));
     } else {

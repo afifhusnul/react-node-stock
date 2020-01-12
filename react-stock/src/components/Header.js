@@ -17,10 +17,13 @@ export default class Header extends React.Component {
         <Navbar.Brand href="/">Info Stock</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="mr-auto">            
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#master">Master Stock</Nav.Link>            
-            <NavDropdown title="Dropdown" id="basic-nav-dropdown">
+          <Nav className="mr-auto">                        
+            {/* <Nav.Link href="#master">Master Stock</Nav.Link> */}
+            <NavDropdown title="Master Data" id="basic-nav-dropdown">
+              <NavDropdown.Item href="#infodata">Info data</NavDropdown.Item>
+              <NavDropdown.Item href="#master">Master Stock</NavDropdown.Item>
+            </NavDropdown>
+            <NavDropdown title="Info Stock" id="basic-nav-dropdown">
               <NavDropdown.Item href="#bull">Bull Stock</NavDropdown.Item>
               <NavDropdown.Item href="#bear">Bear Stock</NavDropdown.Item>
               <NavDropdown.Item href="#ranking">Ranking Stock</NavDropdown.Item>

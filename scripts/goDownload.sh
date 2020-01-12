@@ -1,4 +1,8 @@
 #!/bin/bash
+setproxy
+
+#--------- Define today's date
+todayDt=`date '+%y%m%d'`
 
 #----------- Define file
 fileSS=SS
@@ -16,6 +20,7 @@ dwl_4=Market_Summary/Stock_Quotation/SQ
 #----------- Define Download Folder
 dbf2csv=/home/msa/www/stock/new/scripts/dbf2csv.py
 loadData=/home/msa/www/stock/new/scripts/loadPg.sh
+genAmibroker=/home/msa/www/stock/new/scripts/genAmibroker.sh
 baseFolder=/home/msa/www/stock/new/bei-files
 
 fileMasterStock=$baseFolder/insert/stockMaster.csv
@@ -28,7 +33,8 @@ tempfile4=$baseFolder/insert/stockTrxFreq_1.txt
 /usr/bin/rm $file1 $file2 $file3 $file4 $tempFile4
 
 #----------- Get input date to download data (format YYYY-MM-DD)
-read -p "Enter date , Format --> (YYMMDD) : " dateDwl
+#read -p "Enter date , Format --> (YYMMDD) : " dateDwl
+dateDwl=$todayDt
 
 #----------- Use it later to add date into csv files
 fullDt="20"${dateDwl:0:2}"-"${dateDwl:2:2}"-"${dateDwl:4:2}
@@ -60,9 +66,9 @@ else
 	$dbf2csv $baseFolder/$fileSS$dateDwl.dbf
 	/usr/bin/rm $baseFolder/$fileSS$dateDwl.dbf
 	#------------------ Master Stock
-	awk -F',' 'NR>1{print $2","$3}' $baseFolder/$fileSS$dateDwl.csv > $fileMasterStock
-	awk -F',' 'NR>1{print $2","$1","0","$5","$6","$7","$8","$9","0","0","0","0}' $baseFolder/$fileSS$dateDwl.csv > $file1
-	sed 's/\.0//g' $file1 > $baseFolder/insert/myFile.txt
+	/usr/bin/awk -F',' 'NR>1{print $2","$3}' $baseFolder/$fileSS$dateDwl.csv > $fileMasterStock
+	/usr/bin/awk -F',' 'NR>1{print $2","$1","0","$5","$6","$7","$8","$9","0","0","0","0}' $baseFolder/$fileSS$dateDwl.csv > $file1
+	/usr/bin/sed 's/\.0//g' $file1 > $baseFolder/insert/myFile.txt
 	/usr/bin/cat $baseFolder/insert/myFile.txt > $file1
 
 
@@ -74,8 +80,8 @@ else
 	/usr/bin/rm $baseFolder/$fileSO$dateDwl.dbf
 
 	#------------------ Open Stock
-	awk -F',' 'NR>1{print $2","$1","$4}' $baseFolder/$fileSO$dateDwl.csv > $file2
-	sed 's/\.0//g' $file2 > $baseFolder/insert/myFile.txt
+	/usr/bin/awk -F',' 'NR>1{print $2","$1","$4}' $baseFolder/$fileSO$dateDwl.csv > $file2
+	/usr/bin/sed 's/\.0//g' $file2 > $baseFolder/insert/myFile.txt
 	/usr/bin/cat $baseFolder/insert/myFile.txt > $file2
 
 
@@ -87,24 +93,25 @@ else
 	/usr/bin/rm $baseFolder/$fileFI$dateDwl.dbf
 
 	#------------------ NBSA Stock
-	awk -F',' 'NR>1{print $1",""'$fullDt'"","$5","$6}' $baseFolder/$fileFI$dateDwl.csv > $file3
-	sed 's/\.0//g' $file3 > $baseFolder/insert/myFile.txt
+	/usr/bin/awk -F',' 'NR>1{print $1",""'$fullDt'"","$5","$6}' $baseFolder/$fileFI$dateDwl.csv > $file3
+	/usr/bin/sed 's/\.0//g' $file3 > $baseFolder/insert/myFile.txt
 	/usr/bin/cat $baseFolder/insert/myFile.txt > $file3
+	/usr/bin/rm $baseFolder/insert/myFile.txt
 
 
-	#----------- Processing SQ/Freq File
-	/usr/bin/cp $baseFolder/$fileSQ$dateDwl.TXT $baseFolder/insert/stockTrxFreq.txt
-	/usr/bin/sed -e '1,12d' $d < $file4 > $baseFolder/insert/stockTrxFreq_1.txt && /usr/bin/rm $baseFolder/insert/stockTrxFreq.txt
-	/usr/bin/awk '{print substr($0,7,7)","substr($0,126,7)}' $baseFolder/insert/stockTrxFreq_1.txt > $baseFolder/insert/stockTrxFreq.txt && /usr/bin/rm $baseFolder/insert/stockTrxFreq_1.txt
-	/usr/bin/sed 's/ //g' $baseFolder/insert/stockTrxFreq.txt > $baseFolder/insert/stockTrxFreq_1.txt &&  /usr/bin/rm $baseFolder/insert/stockTrxFreq.txt
-	head -n -2 $baseFolder/insert/stockTrxFreq_1.txt > $baseFolder/insert/stockTrxFreq.txt && /usr/bin/rm $baseFolder/insert/stockTrxFreq_1.txt
-	awk -F',' '{print $1",""'$fullDt'"","$2}' $baseFolder/insert/stockTrxFreq.txt > $baseFolder/insert/stockTrxFreq_1.txt 
-	/usr/bin/mv $baseFolder/insert/stockTrxFreq_1.txt $baseFolder/insert/stockTrxFreq.txt
-	#&& /usr/bin/rm $file4 && /usr/bin/mv $tempFile4 $file4
+	#----------- Processing SQ/Freq File			
+	/usr/bin/cp $baseFolder/$fileSQ$dateDwl.TXT $baseFolder/insert/Freq1.txt
+	/usr/bin/sed -e '1,12d' $d < $baseFolder/insert/Freq1.txt > $baseFolder/insert/Freq2.txt
+	/usr/bin/awk '{print substr($0,7,7)"|"substr($0,126,7)}' $baseFolder/insert/Freq2.txt > $baseFolder/insert/Freq3.txt
+	/usr/bin/sed 's/ //g' $baseFolder/insert/Freq3.txt > $baseFolder/insert/Freq4.txt
+	head -n -2 $baseFolder/insert/Freq4.txt > $baseFolder/insert/Freq5.txt
+	/usr/bin/awk -F'|' '{print $1"|""'$fullDt'""|"$2}' $baseFolder/insert/Freq5.txt > $baseFolder/insert/Freq6.txt
+	/usr/bin/sed 's/,//g' $baseFolder/insert/Freq6.txt > $baseFolder/insert/stockTrxFreq.txt
+	/usr/bin/rm $baseFolder/insert/F*.txt
 
 	#----------- List file
 	ls -l $baseFolder && ls -l $baseFolder/insert
 
 	#----------- Load Data
-	$loadData
+	$loadData && $genAmibroker $dateDwl
 fi

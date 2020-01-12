@@ -2,10 +2,10 @@
 
 # -d says not to attach to the session yet. top runs in the first
 # window
-tmux new-session -d /home/msa/www/stock/new/scripts/start-nodestock.sh
+tmux new-session -d /home/$USER/www/stock/new/scripts/start-nodestock.sh
 # In the most recently created session, split the (only) window
 # and run htop in the new pane
-tmux split-window -v /home/msa/www/stock/new/scripts/start-reactstock.sh
+tmux split-window -v /home/$USER/www/stock/new/scripts/start-reactstock.sh
 # Split the new pane and run perl
 tmux split-pane -v
 # Make all three panes the same size (currently, the first pane

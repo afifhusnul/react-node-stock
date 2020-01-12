@@ -10,10 +10,10 @@ export default class Reversal extends Component {
         
         <h2>Ranking</h2>
         <Tabs defaultActiveKey="Up" id="uncontrolled-tab-example">
-          <Tab eventKey="Up" title="Up">
+          <Tab eventKey="Up" title="By Amount">
             <ByAmount />
           </Tab>
-          <Tab eventKey="Down" title="Down">
+          <Tab eventKey="Down" title="By Volume">
           <ByVolume />
           </Tab>
           

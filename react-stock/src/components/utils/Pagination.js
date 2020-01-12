@@ -159,7 +159,7 @@ export default class Pagination extends Component {
 
               if (page === LEFT_PAGE) return (
                 <li key={index} className="page-item">
-                  <a className="page-link" href="#" aria-label="Previous" onClick={this.handleMoveLeft}>
+                  <a className="page-link" href="/#" aria-label="Previous" onClick={this.handleMoveLeft}>
                     <span aria-hidden="true">&laquo;</span>
                     <span className="sr-only">Previous</span>
                   </a>
@@ -168,7 +168,7 @@ export default class Pagination extends Component {
 
               if (page === RIGHT_PAGE) return (
                 <li key={index} className="page-item">
-                  <a className="page-link" href="#" aria-label="Next" onClick={this.handleMoveRight}>
+                  <a className="page-link" href="/#" aria-label="Next" onClick={this.handleMoveRight}>
                     <span aria-hidden="true">&raquo;</span>
                     <span className="sr-only">Next</span>
                   </a>
@@ -177,7 +177,7 @@ export default class Pagination extends Component {
 
               return (
                 <li key={index} className={`page-item${ currentPage === page ? ' active' : ''}`}>
-                  <a className="page-link" href="#" onClick={ this.handleClick(page) }>{ page }</a>
+                  <a className="page-link" href="/#" onClick={ this.handleClick(page) }>{ page }</a>
                 </li>
               );
 

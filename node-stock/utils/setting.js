@@ -1,8 +1,5 @@
 'use strict'
 
-// const
-//   moment = require('moment')
-
 module.exports.rest = {
   // createResponse: function (code, response, errorCode, errorDescription) {
   //   return {
