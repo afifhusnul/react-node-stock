@@ -33,8 +33,8 @@ tempfile4=$baseFolder/insert/stockTrxFreq_1.txt
 /usr/bin/rm $file1 $file2 $file3 $file4 $tempFile4
 
 #----------- Get input date to download data (format YYYY-MM-DD)
-read -p "Enter date , Format --> (YYMMDD) : " dateDwl
-#dateDwl=$todayDt
+#read -p "Enter date , Format --> (YYMMDD) : " dateDwl
+dateDwl=$todayDt
 
 #----------- Use it later to add date into csv files
 fullDt="20"${dateDwl:0:2}"-"${dateDwl:2:2}"-"${dateDwl:4:2}

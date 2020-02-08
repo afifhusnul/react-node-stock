@@ -1,0 +1,692 @@
+
+
+                                                                  STOCK QUOTATION
+                                                                -------------------
+                                                          DATE : Friday, 07 February 2020
+
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                S  T  O  C  K                                                                                                                                   
+  No. ------------------------------------------------------------------ Remarks     Prev.     Close     Change     %        Freq          Volume              Value           B
+      Code            N  A  M  E                                                                                                                                                
+  --- --------------- -------------------------------------------------- -------- ---------- ---------- -------- -------- ---------- ------------------ -------------------- ---
+    1 AALI            Astra Agro Lestari Tbk.                            --S1K--1     12,125     12,050      -75    -0.62        817            635,000        7,609,127,500   1
+    2 ABBA            Mahaka Media Tbk.                                  --U9---2         70         69       -1    -1.43      3,092         19,041,000        1,353,012,300   2
+    3 ABDA            Asuransi Bina Dana Arta Tbk.                       --U8---2      6,800      6,800        0     0.00          0                  0                    0   2
+    4 ABMM            ABM Investama Tbk.                                 --U9---1      1,485      1,485        0     0.00          0                  0                    0   1
+    5 ACES            Ace Hardware Indonesia Tbk.                        --S9B3O1      1,640      1,680       40     2.44      3,084         26,416,900       44,103,439,000   1
+    6 ACST            Acset Indonusa Tbk.                                --U6---1        855        790      -65    -7.60        220          1,133,600          919,427,500   1
+    7 ADES            Akasha Wira International Tbk.                     --U5---2        960        955       -5    -0.52          7              2,500            2,393,500   2
+    8 ADHI            Adhi Karya (Persero) Tbk.                          --U6K--1      1,045      1,030      -15    -1.44        822          3,352,000        3,485,020,000   1
+    9 ADMF            Adira Dinamika Multi Finance Tbk.                  --U8---1     10,000     10,075       75     0.75         27            110,100        1,106,200,000   1
+   10 ADMG            Polychem Indonesia Tbk                             --U3---1        148        146       -2    -1.35         58            595,900           86,843,400   1
+   11 ADRO            Adaro Energy Tbk.                                  --S2BXO1      1,305      1,305        0     0.00      2,534         15,026,100       19,581,510,500   1
+   12 AGAR            Asia Sejahtera Mina Tbk.                           --U9---2        442        442        0     0.00         46            329,700          144,427,400   2
+   13 AGII            Aneka Gas Industri Tbk.                            --S3---1        585        575      -10    -1.71         29             17,300           10,126,500   1
+   14 AGRO            Bank Rakyat Indonesia Agroniaga Tbk.               --M8---1        153        153        0     0.00        391          2,128,500          328,107,100   1
+   15 AGRS            Bank IBK Indonesia Tbk.                            --U8---2        150        150        0     0.00          4                400               60,500   2
+   16 AHAP            Asuransi Harta Aman Pratama Tbk.                   --U8---2         56         56        0     0.00         50            247,200           13,698,900   2
+   17 AIMS            Akbar Indo Makmur Stimec Tbk                       --U9---2        180        180        0     0.00          0                  0                    0   2
+   18 AISA            Tiga Pilar Sejahtera Food Tbk.                     --U5---1        168        168        0     0.00          0                  0                    0   1
+   19 AKKU            Anugerah Kagum Karya Utama Tbk.                    --U9---2         50         50        0     0.00          1              1,000               50,000   2
+   20 AKPI            Argha Karya Prima Industry Tbk.                    --U3---2        340        340        0     0.00          0                  0                    0   2
+   21 AKRA            AKR Corporindo Tbk.                                --S9XXO1      3,310      3,400       90     2.72      2,673         14,479,900       48,611,631,000   1
+   22 AKSI            Maming Enam Sembilan Mineral Tbk.                  --U7---2        446        424      -22    -4.93          4              9,500            4,028,000   2
+   23 ALDO            Alkindo Naratama Tbk.                              --U3---2        470        454      -16    -3.40          6             10,400            4,907,400   2
+   24 ALKA            Alakasa Industrindo Tbk                            --U3---2        330        328       -2    -0.61          1                100               32,800   2
+   25 ALMI            Alumindo Light Metal Industry Tbk.                 --U3---2        320        318       -2    -0.62          1                500              159,000   2
+   26 ALTO            Tri Banyan Tirta Tbk.                              --U5---1        388        396        8     2.06         40         33,879,300       13,145,159,400   1
+   27 AMAG            Asuransi Multi Artha Guna Tbk.                     --U8---2        304        304        0     0.00          0                  0                    0   2
+   28 AMAR            Bank Amar Indonesia Tbk.                           --U8---2        430        426       -4    -0.93        133            231,300           98,713,800   2
+   29 AMFG            Asahimas Flat Glass Tbk.                           --U3---1      3,300      3,280      -20    -0.61          5              6,000           19,361,000   1
+   30 AMIN            Ateliers Mecaniques D Indonesie Tbk.               --U4---2        402        400       -2    -0.50          1              2,000              800,000   2
+   31 AMOR            Ashmore Asset Management Indonesia Tbk.            --U8---2      2,470      2,470        0     0.00         19              9,300           22,898,000   2
+   32 AMRT            Sumber Alfaria Trijaya Tbk.                        --U9---1        805        800       -5    -0.62         44          2,477,000        1,981,620,000   1
+   33 ANDI            Andira Agro Tbk.                                   --U1---2         50         50        0     0.00         10             25,100            1,255,000   2
+   34 ANJT            Austindo Nusantara Jaya Tbk.                       --U1---1        860        860        0     0.00          0                  0                    0   1
+   35 ANTM            Aneka Tambang Tbk.                                 --S2XXO1        735        730       -5    -0.68      2,524         27,156,200       19,803,359,000   1
+   36 APEX            Apexindo Pratama Duta Tbk.                         --U2---2        232        232        0     0.00          0                  0                    0   2
+   37 APIC            Pacific Strategic Financial Tbk.                   --U8---2        700        700        0     0.00         14             88,000           61,537,000   2
+   38 APII            Arita Prima Indonesia Tbk.                         --U9---2        206        199       -7    -3.40          1              5,000              995,000   2
+   39 APLI            Asiaplast Industries Tbk.                          --U3---1        165        166        1     0.61         14             33,900            5,392,200   1
+   40 APLN            Agung Podomoro Land Tbk.                           --M6K--1        157        158        1     0.64        530          6,149,100          972,767,000   1
+   41 APOL            Arpeni Pratama Ocean Line Tbk.                     --U7---1         50         50        0     0.00          0                  0                    0   1
+   42 ARGO            Argo Pantes Tbk                                    --U4---2        825        825        0     0.00          0                  0                    0   2
+   43 ARII            Atlas Resources Tbk.                               --U2---2        735        735        0     0.00          0                  0                    0   2
+   44 ARKA            Arkha Jayanti Persada Tbk.                         --U4---2      1,995      1,995        0     0.00        550          1,101,000        2,193,630,000   2
+   45 ARMY            Armidian Karyatama Tbk.                            --U6---2         50         50        0     0.00          0                  0                    0   2
+   46 ARNA            Arwana Citramulia Tbk.                             --S3---1        460        462        2     0.43        101          2,206,800        1,017,769,800   1
+   47 ARTA            Arthavest Tbk                                      --U9---2        300        310       10     3.33          2              1,800              558,000   2
+   48 ARTI            Ratu Prabu Energi Tbk                              --U2---1         50         50        0     0.00          1              4,300              215,000   1
+   49 ARTO            Bank Artos Indonesia Tbk.                          --U8---2      3,450      3,400      -50    -1.45         28              9,400           31,936,000   2
+   50 ASBI            Asuransi Bintang Tbk.                              --U8---2        298        298        0     0.00          0                  0                    0   2
+   51 ASDM            Asuransi Dayin Mitra Tbk.                          --U8---1      1,000      1,000        0     0.00          3              1,300            1,300,000   1
+   52 ASGR            Astra Graphia Tbk.                                 --U9---1        960        955       -5    -0.52          8             11,900           11,308,000   1
+   53 ASII            Astra International Tbk.                           --S4BXO1      6,500      6,400     -100    -1.54      3,808         13,918,700       89,607,540,000   1
+   54 ASJT            Asuransi Jasa Tania Tbk.                           --U8---2        126        124       -2    -1.59         25            266,300           34,299,000   2
+   55 ASMI            Asuransi Kresna Mitra Tbk.                         --U8---1      1,345      1,345        0     0.00         68            128,300          172,072,000   1
+   56 ASRI            Alam Sutera Realty Tbk.                            --S6---1        196        191       -5    -2.55        491          3,395,400          652,137,700   1
+   57 ASRM            Asuransi Ramayana Tbk.                             --U8---2      2,020      2,020        0     0.00          0                  0                    0   2
+   58 ASSA            Adi Sarana Armada Tbk.                             --S7K--1        600        605        5     0.83        271          5,713,800        3,428,379,000   1
+   59 ATIC            Anabatic Technologies Tbk.                         --U9---1        650        650        0     0.00          0                  0                    0   1
+   60 AUTO            Astra Otoparts Tbk.                                --M4---1      1,180      1,165      -15    -1.27        331            717,500          840,502,500   1
+   61 BABP            Bank MNC Internasional Tbk.                        --U8---2         50         50        0     0.00          1                200               10,000   2
+   62 BACA            Bank Capital Indonesia Tbk.                        --U8---2        310        310        0     0.00          0                  0                    0   2
+   63 BAJA            Saranacentral Bajatama Tbk.                        --U3---2         73         72       -1    -1.37        115            891,600           64,870,100   2
+   64 BALI            Bali Towerindo Sentra Tbk.                         --U7---2        865        910       45     5.20          7              3,700            3,207,000   2
+   65 BAPA            Bekasi Asri Pemula Tbk.                            --U6---1         51         53        2     3.92          8             28,700            1,545,600   1
+   66 BAPI            Bhakti Agung Propertindo Tbk.                      --U6---2         50         50        0     0.00          8              7,000              350,000   2
+   67 BATA            Sepatu Bata Tbk.                                   --U4---1        615        625       10     1.63          1                100               62,500   1
+   68 BAYU            Bayu Buana Tbk                                     --U9---2      1,125      1,125        0     0.00          0                  0                    0   2
+   69 BBCA            Bank Central Asia Tbk.                             --S8B3O1     33,700     33,800      100     0.30      6,828         16,521,800      558,253,642,500   1
+   70 BBHI            Bank Harda Internasional Tbk.                      --U8---2        108        109        1     0.93          6             54,200            5,708,000   2
+   71 BBKP            Bank Bukopin Tbk.                                  --S8---1        208        210        2     0.96        483          6,554,000        1,361,377,200   1
+   72 BBLD            Buana Finance Tbk.                                 --U8---2        428        428        0     0.00          0                  0                    0   2
+   73 BBMD            Bank Mestika Dharma Tbk.                           --U8---1      2,340      2,340        0     0.00          0                  0                    0   1
+   74 BBNI            Bank Negara Indonesia (Persero) Tbk.               --S8B3O1      7,350      7,350        0     0.00      2,513         19,617,100      144,684,830,000   1
+   75 BBRI            Bank Rakyat Indonesia (Persero) Tbk.               --S8B3O1      4,550      4,550        0     0.00      7,870        133,042,500      605,427,583,000   1
+   76 BBRM            Pelayaran Nasional Bina Buana Raya Tbk.            --U7---1         50         50        0     0.00          0                  0                    0   1
+   77 BBTN            Bank Tabungan Negara (Persero) Tbk.                --S8LKO1      1,850      1,845       -5    -0.27      3,188         20,020,700       36,979,646,000   1
+   78 BBYB            Bank Yudha Bhakti Tbk.                             --U8---1        292        294        2     0.68          9             13,700            4,024,600   1
+   79 BCAP            MNC Kapital Indonesia Tbk.                         --S8---1        147        146       -1    -0.68         77            232,500           34,159,000   1
+   80 BCIC            Bank JTrust Indonesia Tbk.                         --U8---2        450        450        0     0.00          0                  0                    0   2
+   81 BCIP            Bumi Citra Permai Tbk.                             --U6---2         50         50        0     0.00          4             16,600              830,000   2
+   82 BDMN            Bank Danamon Indonesia Tbk.                        --U8---1      3,590      3,580      -10    -0.28        501            682,300        2,454,400,000   1
+   83 BEEF            Estika Tata Tiara Tbk.                             --S1---2        380        370      -10    -2.63        288          1,365,900          504,904,800   2
+   84 BEKS            Bank Pembangunan Daerah Banten Tbk.                --U8---2         50         50        0     0.00          3              1,400               70,000   2
+   85 BELL            Trisula Textile Industries Tbk.                    --U4---2        550        550        0     0.00         26             57,100           31,405,000   2
+   86 BEST            Bekasi Fajar Industrial Estate Tbk.                --S6K--1        175        172       -3    -1.71      1,001          7,907,100        1,376,434,800   1
+   87 BFIN            BFI Finance  Indonesia Tbk.                        --S8---2        550        550        0     0.00         24            100,500           55,174,500   2
+   88 BGTG            Bank Ganesha Tbk.                                  --U8---2         51         52        1     1.96         38            298,100           15,335,400   2
+   89 BHIT            MNC Investama Tbk.                                 --S9---1         65         65        0     0.00        703          3,837,300          249,555,100   1
+   90 BIKA            Binakarya Jaya Abadi Tbk.                          --U6---2        195        195        0     0.00          0                  0                    0   2
+   91 BIMA            Primarindo Asia Infrastructure Tbk.                --U4---2         50         50        0     0.00          1              1,000               50,000   2
+   92 BINA            Bank Ina Perdana Tbk.                              --U8---1        870        915       45     5.17        100          1,651,000        1,497,772,500   1
+   93 BIPI            Astrindo Nusantara Infrastruktur Tbk.              --U2---2         50         50        0     0.00          3              2,800              140,000   2
+   94 BIPP            Bhuwanatala Indah Permai Tbk.                      --U6---2         50         50        0     0.00          0                  0                    0   2
+   95 BIRD            Blue Bird Tbk.                                     --S7---1      2,460      2,470       10     0.41        124            563,400        1,387,977,000   1
+   96 BISI            BISI International Tbk.                            --U1---1      1,000      1,000        0     0.00         17             17,800           17,758,000   1
+   97 BJBR            Bank Pembangunan Daerah Jawa Barat dan Banten Tbk. --U8K--1      1,040      1,035       -5    -0.48      1,533          8,313,900        8,709,187,500   1
+   98 BJTM            Bank Pembangunan Daerah Jawa Timur Tbk.            --S8K--1        640        650       10     1.56        916          3,967,800        2,552,832,000   1
+   99 BKDP            Bukit Darmo Property Tbk                           --U6---2         58         56       -2    -3.45          4              2,400              135,000   2
+  100 BKSL            Sentul City Tbk.                                   --S6K--1         58         58        0     0.00        552         45,816,600        2,659,613,200   1
+  101 BKSW            Bank QNB Indonesia Tbk.                            --U8---2        164        164        0     0.00          6                600               94,000   2
+  102 BLTA            Berlian Laju Tanker Tbk                            --U7---1         50         50        0     0.00          2              1,500               75,000   1
+  103 BLTZ            Graha Layar Prima Tbk.                             --U9---2      3,150      3,150        0     0.00          0                  0                    0   2
+  104 BLUE            Berkah Prima Perkasa Tbk.                          --U9---2        530        530        0     0.00        180            136,200           73,055,000   2
+  105 BMAS            Bank Maspion Indonesia Tbk.                        --U8---2        226        220       -6    -2.65         11             10,600            2,654,400   2
+  106 BMRI            Bank Mandiri (Persero) Tbk.                        --S8B3O1      7,700      7,725       25     0.32      3,419         43,219,300      333,128,315,000   1
+  107 BMSR            Bintang Mitra Semestaraya Tbk                      --U9---1         87         85       -2    -2.30         31             46,900            4,060,800   1
+  108 BMTR            Global Mediacom Tbk.                               --S9K--1        358        352       -6    -1.68      1,391          5,962,200        2,102,157,200   1
+  109 BNBA            Bank Bumi Arta Tbk.                                --U8---1        316        314       -2    -0.63         34            179,900           56,023,000   1
+  110 BNBR            Bakrie & Brothers Tbk                              --U9---2         50         50        0     0.00          0                  0                    0   2
+  111 BNGA            Bank CIMB Niaga Tbk.                               --M8K--1        890        875      -15    -1.69        401          2,948,300        2,597,697,000   1
+  112 BNII            Bank Maybank Indonesia Tbk.                        --M8---1        202        202        0     0.00         24            307,500           61,508,000   1
+  113 BNLI            Bank Permata Tbk.                                  --M8K--1      1,205      1,205        0     0.00        506          7,413,400        8,908,296,500   1
+  114 BOGA            Bintang Oto Global Tbk.                            --U9K--2      1,575      1,580        5     0.32        575         30,364,900       47,736,438,000   2
+  115 BOLA            Bali Bintang Sejahtera Tbk.                        --U9---2        266        260       -6    -2.26         20             16,200            4,213,000   2
+  116 BOLT            Garuda Metalindo Tbk.                              --U4---2        820        825        5     0.61        104            101,800           83,787,500   2
+  117 BOSS            Borneo Olah Sarana Sukses Tbk.                     --U2---2        131        131        0     0.00        124            456,400           59,971,500   2
+  118 BPFI            Batavia Prosperindo Finance Tbk.                   --U8---2      1,310      1,310        0     0.00          0                  0                    0   2
+  119 BPII            Batavia Prosperindo Internasional Tbk.             --U8---2     10,000     10,000        0     0.00          0                  0                    0   2
+  120 BPTR            Batavia Prosperindo Trans Tbk.                     --M7---1         91         92        1     1.10        106             22,400            2,035,800   1
+  121 BRAM            Indo Kordsa Tbk.                                   --U4---1      6,500      6,500        0     0.00          0                  0                    0   1
+  122 BRIS            Bank BRIsyariah Tbk.                               --M8---1        316        324        8     2.53        437          3,480,400        1,118,427,200   1
+  123 BRMS            Bumi Resources Minerals Tbk.                       --U2---2         50         50        0     0.00         15             94,200            4,710,000   2
+  124 BRNA            Berlina Tbk.                                       --U3---2      1,020      1,020        0     0.00          0                  0                    0   2
+  125 BRPT            Barito Pacific Tbk.                                --S3XXO1      1,240      1,265       25     2.02      2,868         58,846,600       73,600,096,000   1
+  126 BSDE            Bumi Serpong Damai Tbk.                            --S6XXO1      1,195      1,195        0     0.00      2,502         10,949,900       13,118,623,500   1
+  127 BSIM            Bank Sinarmas Tbk.                                 --U8---1        510        555       45     8.82          2                200              106,500   1
+  128 BSSR            Baramulti Suksessarana Tbk.                        --U2---2      1,870      1,870        0     0.00          9              1,100            2,040,500   2
+  129 BSWD            Bank Of India Indonesia Tbk.                       --U8---2      1,750      1,750        0     0.00          0                  0                    0   2
+  130 BTEK            Bumi Teknokultura Unggul Tbk                       --U5---2         50         50        0     0.00          2                700               35,000   2
+  131 BTEL            Bakrie Telecom Tbk.                                --U7---1         50         50        0     0.00          0                  0                    0   1
+  132 BTON            Betonjaya Manunggal Tbk.                           --U3---2        199        199        0     0.00         12             75,000           14,936,700   2
+  133 BTPN            Bank BTPN Tbk.                                     --U8---1      2,960      2,940      -20    -0.68         14              9,000           26,545,000   1
+  134 BTPS            Bank Tabungan Pensiunan Nasional Syariah Tbk.      --S8XXO1      4,680      4,630      -50    -1.07      2,034          2,391,000       11,097,227,000   1
+  135 BUDI            Budi Starch & Sweetener Tbk.                       --U5---1         98         99        1     1.02          9            275,000           26,820,300   1
+  136 BUKK            Bukaka Teknik Utama Tbk.                           --U7---2      1,375      1,370       -5    -0.36          2                700              960,000   2
+  137 BULL            Buana Lintas Lautan Tbk.                           --S7---1        174        170       -4    -2.30        180         24,389,300        4,227,504,100   1
+  138 BUMI            Bumi Resources Tbk.                                --U2---2         53         53        0     0.00      1,220        150,247,200        7,868,969,400   2
+  139 BUVA            Bukit Uluwatu Villa Tbk.                           --U9---2         63         71        8    12.70         44            310,600           21,028,600   2
+  140 BVIC            Bank Victoria International Tbk.                   --U8---1         66         66        0     0.00         55          1,796,700          119,271,300   1
+  141 BWPT            Eagle High Plantations Tbk.                        --U1---1        132        127       -5    -3.79      1,484         30,338,100        3,834,957,600   1
+  142 BYAN            Bayan Resources Tbk.                               --U2---1     15,200     15,200        0     0.00          1                100            1,520,000   1
+  143 CAKK            Cahayaputra Asa Keramik Tbk.                       --U3---2         58         58        0     0.00         67            666,400           38,495,100   2
+  144 CAMP            Campina Ice Cream Industry Tbk.                    --U5---1        310        310        0     0.00         67            144,700           44,466,400   1
+  145 CANI            Capitol Nusantara Indonesia Tbk.                   --U7---2        159        159        0     0.00          0                  0                    0   2
+  146 CARS            Industri dan Perdagangan Bintraco Dharma Tbk.      --S9---1         82         90        8     9.76        298         16,580,400        1,381,442,600   1
+  147 CASA            Capital Financial Indonesia Tbk.                   --U8---2        416        414       -2    -0.48          4            106,700           44,038,000   2
+  148 CASS            Cardig Aero Services Tbk.                          --U7---2        486        486        0     0.00          3              2,000              972,000   2
+  149 CCSI            Communication Cable Systems Indonesia Tbk.         --S4---2        258        258        0     0.00         41            223,600           57,827,400   2
+  150 CEKA            Wilmar Cahaya Indonesia Tbk.                       --U5---1      1,555      1,545      -10    -0.64         25             16,500           25,688,500   1
+  151 CENT            Centratama Telekomunikasi Indonesia Tbk.           --M7---2         69         72        3     4.35         38            728,800           50,911,700   2
+  152 CFIN            Clipan Finance Indonesia Tbk.                      --U8---1        254        254        0     0.00         44            489,800          125,336,400   1
+  153 CINT            Chitose Internasional Tbk.                         --U5---2        276        278        2     0.72         13             82,600           22,902,200   2
+  154 CITA            Cita Mineral Investindo Tbk.                       --U2---2      1,930      2,000       70     3.63          4             19,000           37,000,000   2
+  155 CITY            Natura City Developments Tbk.                      --U6---1         67         71        4     5.97         76             85,400            6,148,400   1
+  156 CKRA            Cakra Mineral Tbk.                                 --U2---2         76         76        0     0.00          0                  0                    0   2
+  157 CLAY            Citra Putra Realty Tbk.                            --U9---2      3,050      2,920     -130    -4.26        475          1,093,100        3,353,066,000   2
+  158 CLEO            Sariguna Primatirta Tbk.                           --M5K--1        488        482       -6    -1.23        313          4,135,200        2,016,950,600   1
+  159 CLPI            Colorpak Indonesia Tbk.                            --U9---2        735        725      -10    -1.36         26             21,900           15,863,500   2
+  160 CMNP            Citra Marga Nusaphala Persada Tbk.                 --U7---1      1,990      1,900      -90    -4.52          9             16,000           30,523,000   1
+  161 CMPP            AirAsia Indonesia Tbk.                             --U7---2        184        184        0     0.00          0                  0                    0   2
+  162 CNKO            Exploitasi Energi Indonesia Tbk.                   --U9---1         50         50        0     0.00          0                  0                    0   1
+  163 CNTB            Saham Seri B ( Centex Tbk )                        --U4---2        250        250        0     0.00          0                  0                    0   2
+  164 CNTX            Century Textile Industry Tbk.                      --U4---2        344        330      -14    -4.07          1                100               33,000   2
+  165 COCO            Wahana Interfood Nusantara Tbk.                    --U5---2        855        855        0     0.00          9            234,300          199,166,500   2
+  166 COWL            Cowell Development Tbk.                            --U6---2         50         50        0     0.00          0                  0                    0   2
+  167 CPIN            Charoen Pokphand Indonesia Tbk                     --S3BXO1      6,500      6,375     -125    -1.92      1,860          2,198,800       14,078,735,000   1
+  168 CPRI            Capri Nusa Satu Properti Tbk.                      --U6---2         50         50        0     0.00          2              3,400              170,000   2
+  169 CPRO            Central Proteina Prima Tbk.                        --U3---1         50         50        0     0.00          2                500               25,000   1
+  170 CSAP            Catur Sentosa Adiprana Tbk.                        --U9---1        438        446        8     1.83          1                100               44,600   1
+  171 CSIS            Cahayasakti Investindo Sukses Tbk.                 --U6---2         85         79       -6    -7.06         42            191,400           15,240,500   2
+  172 CSRA            Cisadane Sawit Raya Tbk.                           --U1---2        675        680        5     0.74      1,359         10,090,900        7,112,750,000   2
+  173 CTBN            Citra Tubindo Tbk.                                 --U3---1      3,150      3,150        0     0.00          0                  0                    0   1
+  174 CTRA            Ciputra Development Tbk.                           --S6XXO1        915        920        5     0.55      1,015         11,402,500       10,485,588,500   1
+  175 CTTH            Citatah Tbk.                                       --U2---2         57         56       -1    -1.75         28            106,100            5,950,700   2
+  176 DART            Duta Anggada Realty Tbk.                           --U6---1        282        270      -12    -4.26          2                500              135,000   1
+  177 DAYA            Duta Intidaya Tbk.                                 --U9---2        270        300       30    11.11          2              2,300              624,000   2
+  178 DEAL            Dewata Freightinternational Tbk.                   --U7---2        108        109        1     0.93      1,412         11,997,800        1,339,223,100   2
+  179 DEFI            Danasupra Erapacific Tbk.                          --U8---2      1,900      1,900        0     0.00         33             27,500           52,043,500   2
+  180 DEWA            Darma Henwa Tbk                                    --U2---1         50         50        0     0.00          0                  0                    0   1
+  181 DFAM            Dafam Property Indonesia Tbk.                      --U9---2        384        392        8     2.08        701          2,811,800        1,078,838,800   2
+  182 DGIK            Nusa Konstruksi Enjiniring Tbk.                    --U6---1         50         50        0     0.00          0                  0                    0   1
+  183 DIGI            Arkadia Digital Media Tbk.                         --U9---2      1,700      1,700        0     0.00          1              1,200            2,040,000   2
+  184 DILD            Intiland Development Tbk.                          --U6---1        284        284        0     0.00        125          1,358,900          385,693,600   1
+  185 DIVA            Distribusi Voucher Nusantara Tbk.                  --U9---2      2,620      2,620        0     0.00         22             15,700           39,704,000   2
+  186 DKFT            Central Omega Resources Tbk.                       --S2---2        122        120       -2    -1.64        389          3,949,300          475,672,700   2
+  187 DLTA            Delta Djakarta Tbk.                                --U5---1      6,500      6,500        0     0.00          0                  0                    0   1
+  188 DMAS            Puradelta Lestari Tbk.                             --M6K--1        272        288       16     5.88      2,000         49,103,300       14,011,899,400   1
+  189 DMMX            Digital Mediatama Maxima Tbk.                      --U9---2        208        208        0     0.00         30            370,000           75,440,000   2
+  190 DMND            Diamond Food Indonesia Tbk.                        --U5---1        990        990        0     0.00        120            114,500          114,274,000   1
+  191 DNAR            Bank Oke Indonesia Tbk.                            --U8---1        138        186       48    34.78          4              1,100              202,800   1
+  192 DNET            Indoritel Makmur Internasional Tbk.                --U9---2      3,200      3,200        0     0.00          1                200              640,000   2
+  193 DOID            Delta Dunia Makmur Tbk.                            --S2---1        220        216       -4    -1.82        441          7,302,300        1,578,275,200   1
+  194 DPNS            Duta Pertiwi Nusantara Tbk.                        --U3---1        282        282        0     0.00          0                  0                    0   1
+  195 DPUM            Dua Putra Utama Makmur Tbk.                        --U9---1        108         98      -10    -9.26         15             20,000            1,993,700   1
+  196 DSFI            Dharma Samudera Fishing Industries Tbk.            --U1---1        100        100        0     0.00         13             33,600            3,327,000   1
+  197 DSNG            Dharma Satya Nusantara Tbk.                        --S1---1        444        440       -4    -0.90         72            418,000          185,160,400   1
+  198 DSSA            Dian Swastatika Sentosa Tbk                        --U2---1     13,725     13,600     -125    -0.91          1                200            2,720,000   1
+  199 DUCK            Jaya Bersama Indo Tbk.                             --U9---1      1,200      1,200        0     0.00         16              9,400           11,162,000   1
+  200 DUTI            Duta Pertiwi Tbk                                   --U6---2      4,990      4,990        0     0.00          0                  0                    0   2
+  201 DVLA            Darya-Varia Laboratoria Tbk.                       --U5---1      2,200      2,200        0     0.00          7             16,500           36,050,000   1
+  202 DWGL            Dwi Guna Laksana Tbk.                              --U9---2        192        196        4     2.08         17              4,300              833,600   2
+  203 DYAN            Dyandra Media International Tbk.                   --S9---1         67         68        1     1.49        170          1,719,700          116,858,200   1
+  204 EAST            Eastparc Hotel Tbk.                                --S9---2         96         96        0     0.00        235          5,627,600          542,068,400   2
+  205 ECII            Electronic City Indonesia Tbk.                     --U9---2      1,010      1,010        0     0.00          0                  0                    0   2
+  206 EKAD            Ekadharma International Tbk.                       --U3---1      1,075      1,090       15     1.40         21             10,300           11,180,000   1
+  207 ELSA            Elnusa Tbk.                                        --S2K--1        268        260       -8    -2.99      1,374         16,622,100        4,399,182,200   1
+  208 ELTY            Bakrieland Development Tbk.                        --U6---1         50         50        0     0.00          2                200               10,000   1
+  209 EMDE            Megapolitan Developments Tbk.                      --U6---2        208        208        0     0.00          8            110,000           22,400,000   2
+  210 EMTK            Elang Mahkota Teknologi Tbk.                       --U9---1      5,300      5,800      500     9.43          4              1,000            5,492,500   1
+  211 ENRG            Energi Mega Persada Tbk.                           --U2---2         50         50        0     0.00         13          3,368,700          168,435,000   2
+  212 ENVY            Envy Technologies Indonesia Tbk.                   --U9---2        278        278        0     0.00          0                  0                    0   2
+  213 EPMT            Enseval Putera Megatrading Tbk.                    --U9---2      2,100      2,100        0     0.00          0                  0                    0   2
+  214 ERAA            Erajaya Swasembada Tbk.                            --S9XXO1      1,690      1,740       50     2.96      3,991         20,996,600       36,156,815,000   1
+  215 ERTX            Eratex Djaja Tbk.                                  --U4---2        125        134        9     7.20          2                300               41,400   2
+  216 ESIP            Sinergi Inti Plastindo Tbk.                        --U3---2        146        150        4     2.74        107            129,300           19,579,600   2
+  217 ESSA            Surya Esa Perkasa Tbk.                             --S2K--1        238        240        2     0.84        182          3,692,400          881,623,800   1
+  218 ESTI            Ever Shine Tex Tbk.                                --U4---1         51         51        0     0.00          8            112,100            5,605,200   1
+  219 ETWA            Eterindo Wahanatama Tbk                            --U3---1         58         58        0     0.00         29            169,700            9,942,700   1
+  220 EXCL            XL Axiata Tbk.                                     --S7BXO1      2,890      2,900       10     0.35      3,726         39,432,100      114,390,631,000   1
+  221 FAST            Fast Food Indonesia Tbk.                           --U9---2      2,260      2,400      140     6.19         41             16,400           39,481,000   2
+  222 FASW            Fajar Surya Wisesa Tbk.                            --U3---1      7,250      7,250        0     0.00          0                  0                    0   1
+  223 FILM            MD Pictures Tbk.                                   --U9---1        210        218        8     3.81        779          4,437,800          955,759,200   1
+  224 FINN            First Indo American Leasing Tbk.                   --U8---2         50         50        0     0.00          0                  0                    0   2
+  225 FIRE            Alfa Energi Investama Tbk.                         --U2---2        160        164        4     2.50      1,947         16,307,900        2,742,006,300   2
+  226 FISH            FKS Multi Agro Tbk.                                --U9---2      2,700      2,700        0     0.00          0                  0                    0   2
+  227 FITT            Hotel Fitra International Tbk.                     --U9---2         73         71       -2    -2.74         20             32,400            2,320,900   2
+  228 FMII            Fortune Mate Indonesia Tbk                         --U6---2        470        470        0     0.00          0                  0                    0   2
+  229 FOOD            Sentra Food Indonesia Tbk.                         --S5---2        101        100       -1    -0.99         27             31,000            3,125,900   2
+  230 FORU            Fortune Indonesia Tbk                              --U9---2        106        106        0     0.00          0                  0                    0   2
+  231 FORZ            Forza Land Indonesia Tbk.                          --U6---1         50         50        0     0.00          2                200               10,000   1
+  232 FPNI            Lotte Chemical Titan Tbk.                          --U3---2         86         86        0     0.00        281          2,412,700          210,248,400   2
+  233 FREN            Smartfren Telecom Tbk.                             --U7---1        107        114        7     6.54      5,712        115,434,700       13,087,100,200   1
+  234 FUJI            Fuji Finance Indonesia Tbk.                        --U8---2        106        104       -2    -1.89         21            112,900           11,747,000   2
+  235 GAMA            Gading Development Tbk.                            --U6---1         50         50        0     0.00          2              3,000              150,000   1
+  236 GDST            Gunawan Dianjaya Steel Tbk.                        --U3---2         74         74        0     0.00        222          1,748,000          128,180,200   2
+  237 GDYR            Goodyear Indonesia Tbk.                            --U4---1      1,950      1,950        0     0.00          0                  0                    0   1
+  238 GEMA            Gema Grahasarana Tbk.                              --U9---2        368        370        2     0.54          1             30,000           11,100,000   2
+  239 GEMS            Golden Energy Mines Tbk.                           --U2---1      2,550      2,550        0     0.00          0                  0                    0   1
+  240 GGRM            Gudang Garam Tbk.                                  --M5B3O1     57,000     56,375     -625    -1.10      1,970          1,078,600       60,784,982,500   1
+  241 GGRP            Gunung Raja Paksi Tbk.                             --U3---2        450        440      -10    -2.22          7              3,200            1,420,000   2
+  242 GHON            Gihon Telekomunikasi Indonesia Tbk.                --U7---1      1,255      1,255        0     0.00          4                500              627,500   1
+  243 GIAA            Garuda Indonesia (Persero) Tbk.                    --M7K--1        396        386      -10    -2.53      1,535         59,034,200       23,134,076,000   1
+  244 GJTL            Gajah Tunggal Tbk.                                 --S4---1        494        492       -2    -0.40        152            682,900          335,934,800   1
+  245 GLOB            Global Teleshop Tbk.                               --U9---2        376        388       12     3.19          2                200               77,000   2
+  246 GLVA            Galva Technologies Tbk.                            --U9---2        248        252        4     1.61         76            240,400           62,758,400   2
+  247 GMFI            Garuda Maintenance Facility Aero Asia Tbk.         --M4---1        112        110       -2    -1.79        291          3,690,000          406,708,600   1
+  248 GMTD            Gowa Makassar Tourism Development Tbk.             --U6---2     16,575     16,000     -575    -3.47          3                600            9,600,000   2
+  249 GOLD            Visi Telekomunikasi Infrastruktur Tbk.             --U7---2        222        222        0     0.00          3            118,000           26,196,000   2
+  250 GOLL            Golden Plantation Tbk.                             --U1---2         50         50        0     0.00          0                  0                    0   2
+  251 GOOD            Garudafood Putra Putri Jaya Tbk.                   --U5---1      1,335      1,345       10     0.75         98            311,000          416,915,500   1
+  252 GPRA            Perdana Gapuraprima Tbk.                           --U6---1         60         60        0     0.00        210          7,512,400          411,656,500   1
+  253 GREN            Evergreen Invesco Tbk.                             --U9---1        328        328        0     0.00          0                  0                    0   1
+  254 GSMF            Equity Development Investment Tbk.                 --U8---2        117        117        0     0.00          0                  0                    0   2
+  255 GTBO            Garda Tujuh Buana Tbk                              --U2---2        125        125        0     0.00          0                  0                    0   2
+  256 GWSA            Greenwood Sejahtera Tbk.                           --U6---1        135        135        0     0.00          0                  0                    0   1
+  257 GZCO            Gozco Plantations Tbk.                             --U1---1         50         50        0     0.00          2                500               25,000   1
+  258 HADE            Himalaya Energi Perkasa Tbk.                       --U9---2         50         50        0     0.00          0                  0                    0   2
+  259 HDFA            Radana Bhaskara Finance Tbk.                       --U8---1        111        111        0     0.00          0                  0                    0   1
+  260 HDIT            Hensel Davest Indonesia Tbk.                       --U9---1        595        595        0     0.00          7              4,100            2,426,000   1
+  261 HDTX            Panasia Indo Resources Tbk.                        --U4---1        120        120        0     0.00          0                  0                    0   1
+  262 HEAL            Medikaloka Hermina Tbk.                            --U9---1      3,290      3,230      -60    -1.82        258            667,400        2,152,692,000   1
+  263 HELI            Jaya Trishindo Tbk.                                --U7---2        171        171        0     0.00          4             30,000            5,130,000   2
+  264 HERO            Hero Supermarket Tbk.                              --U9---1        850        850        0     0.00          0                  0                    0   1
+  265 HEXA            Hexindo Adiperkasa Tbk.                            --U9---1      3,100      3,140       40     1.29         10             13,300           41,866,000   1
+  266 HITS            Humpuss Intermoda Transportasi Tbk.                --U7---1        580        580        0     0.00          0                  0                    0   1
+  267 HKMU            HK Metals Utama Tbk.                               --U9---1        160        165        5     3.12         68            808,700          131,660,900   1
+  268 HMSP            H.M. Sampoerna Tbk.                                --M5LKO1      2,060      2,030      -30    -1.46      2,475         27,703,800       56,604,795,000   1
+  269 HOKI            Buyung Poetra Sembada Tbk.                         --U5K--1        875        895       20     2.29        748         24,489,500       21,720,755,500   1
+  270 HOME            Hotel Mandarine Regency Tbk.                       --U9---2         50         50        0     0.00          0                  0                    0   2
+  271 HOTL            Saraswati Griya Lestari Tbk.                       --U9---1         91         95        4     4.40         51         21,399,500        1,947,483,300   1
+  272 HRME            Menteng Heritage Realty Tbk.                       --U9---2      1,090      1,130       40     3.67        906         43,279,900       48,006,943,000   2
+  273 HRTA            Hartadinata Abadi Tbk.                             --S5---1        280        270      -10    -3.57        128            843,200          230,355,800   1
+  274 HRUM            Harum Energy Tbk.                                  --M2K--1      1,265      1,255      -10    -0.79         71            188,500          236,163,000   1
+  275 IATA            Indonesia Transport & Infrastructure Tbk.          --U7---2         50         50        0     0.00          6             15,800              790,000   2
+  276 IBFN            Intan Baruprana Finance Tbk.                       --U8---2        370        370        0     0.00         28            198,000           73,073,400   2
+  277 IBST            Inti Bangun Sejahtera Tbk.                         --U7---1      5,225      5,225        0     0.00          0                  0                    0   1
+  278 ICBP            Indofood CBP Sukses Makmur Tbk.                    --M5BXO1     11,500     11,500        0     0.00      1,647          1,786,400       20,526,965,000   1
+  279 ICON            Island Concepts Indonesia Tbk.                     --U9---2         74         75        1     1.35         17             60,100            4,463,200   2
+  280 IDPR            Indonesia Pondasi Raya Tbk.                        --U6---1        380        380        0     0.00          0                  0                    0   1
+  281 IFII            Indonesia Fibreboard Industry Tbk.                 --U3---1        172        174        2     1.16         34            248,700           43,139,500   1
+  282 IFSH            Ifishdeco Tbk.                                     --U2---2        488        480       -8    -1.64          6              2,100            1,010,000   2
+  283 IGAR            Champion Pacific Indonesia Tbk.                    --U3---1        300        298       -2    -0.67          9             11,900            3,543,200   1
+  284 IIKP            Inti Agri Resources Tbk                            --U5---2         50         50        0     0.00          0                  0                    0   2
+  285 IKAI            Intikeramik Alamasri Industri Tbk.                 --U9---1         51         50       -1    -1.96        898         12,488,300          640,457,400   1
+  286 IKBI            Sumi Indo Kabel Tbk.                               --U4---2        250        256        6     2.40          1                500              128,000   2
+  287 IMAS            Indomobil Sukses Internasional Tbk.                --M4---1        885        880       -5    -0.56        227            749,500          658,772,000   1
+  288 IMJS            Indomobil Multi Jasa Tbk.                          --M8---1        252        252        0     0.00          4             48,000           12,096,000   1
+  289 IMPC            Impack Pratama Industri Tbk.                       --U3---2      1,100      1,100        0     0.00         23            188,200          207,020,000   2
+  290 INAF            Indofarma (Persero) Tbk.                           --U5---1        810        765      -45    -5.56      2,673          7,983,100        6,370,062,000   1
+  291 INAI            Indal Aluminium Industry Tbk.                      --U3---2        420        420        0     0.00          0                  0                    0   2
+  292 INCF            Indo Komoditi Korpora Tbk.                         --U3---2         50         50        0     0.00          8              1,400               70,000   2
+  293 INCI            Intanwijaya Internasional Tbk                      --U3---1        422        416       -6    -1.42          6             26,400           10,565,200   1
+  294 INCO            Vale Indonesia Tbk.                                --S2XXO1      3,310      3,310        0     0.00        966          4,336,400       14,316,174,000   1
+  295 INDF            Indofood Sukses Makmur Tbk.                        --S5BXO1      7,700      7,850      150     1.95      2,730          4,827,500       37,711,080,000   1
+  296 INDO            Royalindo Investa Wijaya Tbk.                      --U6---2        151        152        1     0.66        563          1,817,200          288,620,400   2
+  297 INDR            Indo-Rama Synthetics Tbk.                          --U4---1      2,290      2,290        0     0.00          6              1,700            3,893,000   1
+  298 INDS            Indospring Tbk.                                    --M4---1      2,000      2,000        0     0.00         19             57,600          115,207,000   1
+  299 INDX            Tanah Laut Tbk                                     --U9---2         52         51       -1    -1.92          4              1,100               56,200   2
+  300 INDY            Indika Energy Tbk.                                 --S2K--1        925        915      -10    -1.08        495          1,515,700        1,395,963,000   1
+  301 INKP            Indah Kiat Pulp & Paper Tbk.                       --S3B3O1      6,775      6,800       25     0.37      2,132          3,330,300       22,672,592,500   1
+  302 INOV            Inocycle Technology Group Tbk.                     --M3---2        302        306        4     1.32         28            121,900           37,151,000   2
+  303 INPC            Bank Artha Graha Internasional Tbk.                --U8---1         50         51        1     2.00         19            241,700           12,184,400   1
+  304 INPP            Indonesian Paradise Property Tbk.                  --U9---2        885        920       35     3.95         15             22,800           20,436,000   2
+  305 INPS            Indah Prakasa Sentosa Tbk.                         --U9---2      4,000      4,000        0     0.00        569            545,900        2,192,864,000   2
+  306 INRU            Toba Pulp Lestari Tbk.                             --U3---2        795        795        0     0.00          0                  0                    0   2
+  307 INTA            Intraco Penta Tbk.                                 --U9---2        450        450        0     0.00          0                  0                    0   2
+  308 INTD            Inter Delta Tbk                                    --U9---2        240        240        0     0.00          0                  0                    0   2
+  309 INTP            Indocement Tunggal Prakarsa Tbk.                   --S3BXO1     17,175     17,025     -150    -0.87      1,850          1,098,000       18,852,275,000   1
+  310 IPCC            Indonesia Kendaraan Terminal Tbk.                  --S7---2        565        565        0     0.00        176            804,400          451,633,500   2
+  311 IPCM            Jasa Armada Indonesia Tbk.                         --U7---2        169        166       -3    -1.78         14              9,700            1,626,200   2
+  312 IPOL            Indopoly Swakarsa Industry Tbk.                    --U3---1         78         77       -1    -1.28          3              6,500              501,100   1
+  313 IPTV            MNC Vision Networks Tbk.                           --U9---1        396        398        2     0.51        138            596,500          236,594,400   1
+  314 IRRA            Itama Ranoraya Tbk.                                --U9---2        700        715       15     2.14        752         12,034,000        8,529,593,000   2
+  315 ISAT            Indosat Tbk.                                       --S7K--1      2,370      2,370        0     0.00      1,595          5,197,500       12,422,288,000   1
+  316 ISSP            Steel Pipe Industry of Indonesia Tbk.              --S3---1        171        165       -6    -3.51        672          7,793,500        1,297,766,500   1
+  317 ITIC            Indonesian Tobacco Tbk.                            --U5---2      2,380      2,350      -30    -1.26      1,837         11,805,400       27,856,147,000   2
+  318 ITMA            Sumber Energi Andalan Tbk.                         --U9---2        450        450        0     0.00         15             17,300            7,778,400   2
+  319 ITMG            Indo Tambangraya Megah Tbk.                        --S2XXO1     10,525     10,425     -100    -0.95      1,803          1,145,100       11,959,450,000   1
+  320 JAST            Jasnita Telekomindo Tbk.                           --U7---2      1,495      1,490       -5    -0.33         13             17,700           26,382,500   2
+  321 JAWA            Jaya Agra Wattie Tbk.                              --U1---1         88         88        0     0.00          0                  0                    0   1
+  322 JAYA            Armada Berjaya Trans Tbk.                          --U7---2         84         83       -1    -1.19         14             84,600            7,050,900   2
+  323 JECC            Jembo Cable Company Tbk.                           --U4---2      5,700      5,700        0     0.00          0                  0                    0   2
+  324 JGLE            Graha Andrasentra Propertindo Tbk.                 --U9---2         50         50        0     0.00          0                  0                    0   2
+  325 JIHD            Jakarta International Hotels & Development Tbk.    --U9---2        510        510        0     0.00          0                  0                    0   2
+  326 JKON            Jaya Konstruksi Manggala Pratama Tbk.              --U6---1        462        450      -12    -2.60          1                200               90,000   1
+  327 JKSW            Jakarta Kyoei Steel Works Tbk.                     --U3---2         60         60        0     0.00          0                  0                    0   2
+  328 JMAS            Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.        --U8---2        845        790      -55    -6.51         14              2,700            2,055,500   2
+  329 JPFA            Japfa Comfeed Indonesia Tbk.                       --S3XXO1      1,510      1,495      -15    -0.99        896          2,116,300        3,177,986,500   1
+  330 JRPT            Jaya Real Property Tbk.                            --S6K--1        535        530       -5    -0.93        356         11,944,400        6,341,202,500   1
+  331 JSKY            Sky Energy Indonesia Tbk.                          --U4---1        123        144       21    17.07     11,432        120,831,000       17,665,334,700   1
+  332 JSMR            Jasa Marga (Persero) Tbk.                          --S7BXO1      4,800      4,900      100     2.08      3,204          5,126,200       25,019,412,000   1
+  333 JSPT            Jakarta Setiabudi Internasional Tbk.               --U9---2        900        900        0     0.00          0                  0                    0   2
+  334 JTPE            Jasuindo Tiga Perkasa Tbk.                         --S9---2        965        965        0     0.00         11            144,100          139,056,500   2
+  335 KAEF            Kimia Farma (Persero) Tbk.                         --M5---1        960        930      -30    -3.12      1,386          4,406,700        4,164,944,500   1
+  336 KARW            ICTSI Jasa Prima Tbk.                              --U7---2         58         57       -1    -1.72         51            326,200           18,774,900   2
+  337 KAYU            Darmi Bersaudara Tbk.                              --U9---2         78         76       -2    -2.56        297          2,605,100          199,390,600   2
+  338 KBLI            KMI Wire & Cable Tbk.                              --S4K--1        476        474       -2    -0.42        102          1,787,700          847,150,200   1
+  339 KBLM            Kabelindo Murni Tbk.                               --U4---2        254        254        0     0.00          0                  0                    0   2
+  340 KBLV            First Media Tbk.                                   --U9---2        280        280        0     0.00          0                  0                    0   2
+  341 KBRI            Kertas Basuki Rachmat Indonesia Tbk.               --U3---2         50         50        0     0.00          0                  0                    0   2
+  342 KDSI            Kedawung Setia Industrial Tbk.                     --U3---2      1,015      1,015        0     0.00         22            105,100          106,712,000   2
+  343 KEEN            Kencana Energi Lestari Tbk.                        --S7---1        414        416        2     0.48         40          2,233,000          929,067,600   1
+  344 KEJU            Mulia Boga Raya Tbk.                               --U5---2        810        870       60     7.41        138            440,300          371,677,000   2
+  345 KIAS            Keramika Indonesia Assosiasi Tbk.                  --U3---2         53         50       -3    -5.66         45            639,300           32,061,900   2
+  346 KICI            Kedaung Indah Can Tbk                              --U5---1        244        244        0     0.00          0                  0                    0   1
+  347 KIJA            Kawasan Industri Jababeka Tbk.                     --S6---1        298        298        0     0.00         77            351,100          103,926,000   1
+  348 KINO            Kino Indonesia Tbk.                                --M5---1      3,000      2,990      -10    -0.33         42            132,900          398,521,000   1
+  349 KIOS            Kioson Komersial Indonesia Tbk.                    --U9---2        270        250      -20    -7.41          3              4,300            1,078,000   2
+  350 KJEN            Krida Jaringan Nusantara Tbk.                      --U7---2      2,000      1,995       -5    -0.25         82            228,700          455,693,500   2
+  351 KKGI            Resource Alam Indonesia Tbk.                       --U2---1        214        214        0     0.00          0                  0                    0   1
+  352 KLBF            Kalbe Farma Tbk.                                   --S5BXO1      1,460      1,470       10     0.68      1,942         12,388,300       18,270,211,000   1
+  353 KMTR            Kirana Megatara Tbk.                               --U3---2        296        298        2     0.68          3             10,200            3,019,400   2
+  354 KOBX            Kobexindo Tractors Tbk.                            --U9---1        105        105        0     0.00         10             45,700            4,785,000   1
+  355 KOIN            Kokoh Inti Arebama Tbk                             --U9---2        138        137       -1    -0.72          1                200               27,400   2
+  356 KONI            Perdana Bangun Pusaka Tbk                          --U9---2        600        600        0     0.00          0                  0                    0   2
+  357 KOPI            Mitra Energi Persada Tbk.                          --U7---2        615        620        5     0.81          9             34,800           21,341,000   2
+  358 KOTA            DMS Propertindo Tbk.                               --U6---1        750        740      -10    -1.33         43          9,401,800        7,080,127,500   1
+  359 KPAL            Steadfast Marine Tbk.                              --U4---1        169        167       -2    -1.18         71             91,500           15,342,400   1
+  360 KPAS            Cottonindo Ariesta Tbk.                            --U5---2         57         57        0     0.00         69            574,600           32,897,900   2
+  361 KPIG            MNC Land Tbk.                                      --S9---2        130        127       -3    -2.31        119            590,800           75,528,000   2
+  362 KRAH            Grand Kartech Tbk.                                 --U4---2      1,600      1,600        0     0.00          3              3,900            6,320,000   2
+  363 KRAS            Krakatau Steel (Persero) Tbk.                      --U3---1        268        270        2     0.75        430          2,286,600          617,630,400   1
+  364 KREN            Kresna Graha Investama Tbk.                        --U9---1        480        482        2     0.42        220         24,007,100       11,527,701,400   1
+  365 LAND            Trimitra Propertindo Tbk.                          --U6---2        955        950       -5    -0.52         12              8,100            7,562,500   2
+  366 LAPD            Leyand International Tbk.                          --U7---2         50         50        0     0.00          0                  0                    0   2
+  367 LCGP            Eureka Prima Jakarta Tbk.                          --U6---2        114        114        0     0.00          0                  0                    0   2
+  368 LCKM            LCK Global Kedaton Tbk.                            --U7---2        322        322        0     0.00          8             60,600           19,446,000   2
+  369 LEAD            Logindo Samudramakmur Tbk.                         --U7---1         50         50        0     0.00          4              2,100              105,000   1
+  370 LIFE            Asuransi Jiwa Sinarmas MSIG Tbk.                   --U8---1      5,800      5,800        0     0.00          0                  0                    0   1
+  371 LINK            Link Net Tbk.                                      --S9---1      3,660      3,620      -40    -1.09        812          7,079,400       25,843,624,000   1
+  372 LION            Lion Metal Works Tbk.                              --U3---1        410        400      -10    -2.44          1              1,500              600,000   1
+  373 LMAS            Limas Indonesia Makmur Tbk                         --U9---2        121        122        1     0.83      1,010          7,369,300          896,657,000   2
+  374 LMPI            Langgeng Makmur Industri Tbk.                      --U5---2         94         94        0     0.00          0                  0                    0   2
+  375 LMSH            Lionmesh Prima Tbk.                                --U3---2        380        380        0     0.00          0                  0                    0   2
+  376 LPCK            Lippo Cikarang Tbk                                 --U6---1        760        825       65     8.55        426          1,481,300        1,184,257,000   1
+  377 LPGI            Lippo General Insurance Tbk.                       --U8---1      3,800      3,800        0     0.00          0                  0                    0   1
+  378 LPIN            Multi Prima Sejahtera Tbk                          --U4---2        228        228        0     0.00          6             40,500            9,296,000   2
+  379 LPKR            Lippo Karawaci Tbk.                                --S6K--1        234        236        2     0.85      1,275         50,056,500       11,725,335,600   1
+  380 LPLI            Star Pacific Tbk                                   --U9---2         72         72        0     0.00          0                  0                    0   2
+  381 LPPF            Matahari Department Store Tbk.                     --S9XXO1      3,250      3,250        0     0.00      1,110          3,459,700       11,271,649,000   1
+  382 LPPS            Lippo Securities Tbk.                              --U8---2         81         82        1     1.23          7             50,200            4,112,500   2
+  383 LRNA            Eka Sari Lorena Transport Tbk.                     --U7---2        174        174        0     0.00         10             15,000            2,706,100   2
+  384 LSIP            PP London Sumatra Indonesia Tbk.                   --S1K--1      1,265      1,275       10     0.79      1,744          9,902,200       12,495,826,500   1
+  385 LTLS            Lautan Luas Tbk.                                   --U9---1        595        605       10     1.68          8             23,700           14,303,500   1
+  386 LUCK            Sentral Mitra Informatika Tbk.                     --U9---2        705        880      175    24.82     22,621         35,114,400       28,252,787,000   2
+  387 MABA            Marga Abhinaya Abadi Tbk.                          --U6---2         50         50        0     0.00         77             14,500              725,000   2
+  388 MAGP            Multi Agro Gemilang Plantation Tbk.                --U1---2         50         50        0     0.00          0                  0                    0   2
+  389 MAIN            Malindo Feedmill Tbk.                              --S3K--1        885        870      -15    -1.69        459          1,537,300        1,350,428,500   1
+  390 MAMI            Mas Murni Indonesia Tbk                            --U9---1         50         50        0     0.00         27            892,000           44,600,000   1
+  391 MAMIP           Mas Murni Tbk (Saham Preferen)                     --U9---1        600        600        0     0.00          0                  0                    0   1
+  392 MAPA            Map Aktif Adiperkasa Tbk.                          --U9---2      4,400      4,400        0     0.00          0                  0                    0   2
+  393 MAPB            MAP Boga Adiperkasa Tbk.                           --U9---2      1,600      1,575      -25    -1.56          4              2,000            3,190,000   2
+  394 MAPI            Mitra Adiperkasa Tbk.                              --S9K--1        950        950        0     0.00      1,180          3,632,400        3,417,778,000   1
+  395 MARI            Mahaka Radio Integra Tbk.                          --U9---2        155        167       12     7.74         12             11,500            1,802,700   2
+  396 MARK            Mark Dynamics Indonesia Tbk.                       --U3---1        462        472       10     2.16        133            812,500          376,742,000   1
+  397 MASA            Multistrada Arah Sarana Tbk.                       --U4---1        480        480        0     0.00          5             57,300           27,503,600   1
+  398 MAYA            Bank Mayapada Internasional Tbk.                   --U8---1      8,100      8,100        0     0.00          0                  0                    0   1
+  399 MBAP            Mitrabara Adiperdana Tbk.                          --U2---2      1,945      1,945        0     0.00         15              7,300           14,144,000   2
+  400 MBSS            Mitrabahtera Segara Sejati Tbk.                    --S7---1        428        426       -2    -0.47        113            275,100          117,718,200   1
+  401 MBTO            Martina Berto Tbk.                                 --U5---1         75         83        8    10.67          4                800               64,400   1
+  402 MCAS            M Cash Integrasi Tbk.                              --S9---2      2,100      2,070      -30    -1.43         18             33,700           70,414,000   2
+  403 MCOR            Bank China Construction Bank Indonesia Tbk.        --M8---1        117        117        0     0.00         45            236,800           27,456,600   1
+  404 MDIA            Intermedia Capital Tbk.                            --U9---1         50         50        0     0.00          1                100                5,000   1
+  405 MDKA            Merdeka Copper Gold Tbk.                           --S2K--2      1,175      1,205       30     2.55      2,180         46,016,300       55,255,709,500   2
+  406 MDKI            Emdeki Utama Tbk.                                  --U3---2        178        174       -4    -2.25         84            292,300           49,240,000   2
+  407 MDLN            Modernland Realty Tbk.                             --S6---1        193        191       -2    -1.04        165          1,233,700          235,379,800   1
+  408 MDRN            Modern Internasional Tbk.                          --U9---1         50         50        0     0.00          1                100                5,000   1
+  409 MEDC            Medco Energi Internasional Tbk.                    --S2K--1        755        725      -30    -3.97      2,323         33,051,000       24,368,315,500   1
+  410 MEGA            Bank Mega Tbk.                                     --U8---1      5,800      5,900      100     1.72         35             19,900          116,320,000   1
+  411 MERK            Merck Tbk.                                         --U5---2      2,470      2,490       20     0.81          7              1,500            3,733,000   2
+  412 META            Nusantara Infrastructure Tbk.                      --U7---1        170        169       -1    -0.59        237          1,623,100          281,653,100   1
+  413 MFIN            Mandala Multifinance Tbk.                          --U8---2      1,320      1,320        0     0.00          3              5,200            6,864,000   2
+  414 MFMI            Multifiling Mitra Indonesia Tbk.                   --U9---2        406        450       44    10.84         41             40,800           16,344,000   2
+  415 MGNA            Magna Investama Mandiri Tbk.                       --U5---2         50         50        0     0.00          0                  0                    0   2
+  416 MGRO            Mahkota Group Tbk.                                 --S1K--1        830        830        0     0.00        188          1,882,800        1,566,058,000   1
+  417 MICE            Multi Indocitra Tbk.                               --U9---2        342        344        2     0.58          3                600              210,000   2
+  418 MIDI            Midi Utama Indonesia Tbk.                          --U9---2      1,265      1,265        0     0.00          0                  0                    0   2
+  419 MIKA            Mitra Keluarga Karyasehat Tbk.                     --S9KB-1      2,620      2,570      -50    -1.91        769          2,812,800        7,362,586,000   1
+  420 MINA            Sanurhasta Mitra Tbk.                              --U9---2        218        218        0     0.00          0                  0                    0   2
+  421 MIRA            Mitra International Resources Tbk.                 --U7---2         50         50        0     0.00          0                  0                    0   2
+  422 MITI            Mitra Investindo Tbk.                              --U2---2         51         51        0     0.00          0                  0                    0   2
+  423 MKNT            Mitra Komunikasi Nusantara Tbk.                    --U9---2         50         50        0     0.00          3             45,800            2,290,000   2
+  424 MKPI            Metropolitan Kentjana Tbk.                         --U6---2     16,200     16,200        0     0.00          0                  0                    0   2
+  425 MLBI            Multi Bintang Indonesia Tbk.                       --U5---1     15,325     15,350       25     0.16          9              4,400           67,595,000   1
+  426 MLIA            Mulia Industrindo Tbk                              --U3---2        505        520       15     2.97        294          6,987,400        3,587,571,500   2
+  427 MLPL            Multipolar Tbk.                                    --S9---1         68         68        0     0.00        191          2,931,900          199,776,400   1
+  428 MLPT            Multipolar Technology Tbk.                         --U9---1        330        326       -4    -1.21         59            113,500           37,526,600   1
+  429 MMLP            Mega Manunggal Property Tbk.                       --S6---2        171        173        2     1.17        127          2,412,900          415,059,500   2
+  430 MNCN            Media Nusantara Citra Tbk.                         --S9XXO1      1,615      1,590      -25    -1.55      5,610         23,493,500       37,622,680,000   1
+  431 MOLI            Madusari Murni Indah Tbk.                          --U3---2      1,030      1,030        0     0.00          0                  0                    0   2
+  432 MPMX            Mitra Pinasthika Mustika Tbk.                      --S9---1        625        625        0     0.00        122            123,900           76,770,000   1
+  433 MPOW            Megapower Makmur Tbk.                              --U7---2         90         87       -3    -3.33         71            118,800           10,336,600   2
+  434 MPPA            Matahari Putra Prima Tbk.                          --U9---1        112        113        1     0.89        460          3,401,400          399,746,800   1
+  435 MPRO            Maha Properti Indonesia Tbk.                       --U6---2      1,155      1,155        0     0.00          2                200              231,000   2
+  436 MRAT            Mustika Ratu Tbk.                                  --U5---1        142        148        6     4.23          5                800              116,100   1
+  437 MREI            Maskapai Reasuransi Indonesia Tbk.                 --U8---2      3,960      3,960        0     0.00          2              1,800            7,196,000   2
+  438 MSIN            MNC Studios International Tbk.                     --M9---2        400        386      -14    -3.50         53            113,700           43,888,600   2
+  439 MSKY            MNC Sky Vision Tbk.                                --U9---1      1,300      1,300        0     0.00          0                  0                    0   1
+  440 MTDL            Metrodata Electronics Tbk.                         --S9K--1      1,710      1,745       35     2.05        297            764,800        1,318,787,000   1
+  441 MTFN            Capitalinc Investment Tbk.                         --U2---2         50         50        0     0.00          0                  0                    0   2
+  442 MTLA            Metropolitan Land Tbk.                             --U6---1        520        460      -60   -11.54          1                500              230,000   1
+  443 MTPS            Meta Epsi Tbk.                                     --U7---2        330        342       12     3.64         21             15,200            5,061,600   2
+  444 MTRA            Mitra Pemuda Tbk.                                  --U6---2        230        238        8     3.48         10             24,800            5,889,400   2
+  445 MTSM            Metro Realty Tbk.                                  --U6---2        195        169      -26   -13.33          6              1,400              244,600   2
+  446 MTWI            Malacca Trust Wuwungan Insurance Tbk.              --U8---2         65         64       -1    -1.54        949          2,564,500          166,630,300   2
+  447 MYOH            Samindo Resources Tbk.                             --U2---1      1,190      1,195        5     0.42          8             46,600           55,687,000   1
+  448 MYOR            Mayora Indah Tbk.                                  --M5KB-1      1,930      1,995       65     3.37        896          3,697,600        7,316,896,000   1
+  449 MYRX            Hanson International Tbk.                          --U6---2         50         50        0     0.00          0                  0                    0   2
+  450 MYRXP           Saham Seri B Hanson International Tbk.             --U6---2         50         50        0     0.00          0                  0                    0   2
+  451 MYTX            Asia Pacific Investama Tbk.                        --U4---1         53         52       -1    -1.89        105            839,700           42,045,500   1
+  452 NASA            Ayana Land International Tbk.                      --U9---2        199        199        0     0.00          0                  0                    0   2
+  453 NATO            Nusantara Properti Internasional Tbk.              --U9---2      1,160      1,160        0     0.00        276          7,491,700        8,612,266,000   2
+  454 NELY            Pelayaran Nelly Dwi Putri Tbk.                     --U7---2        139        134       -5    -3.60          3              2,000              270,100   2
+  455 NFCX            NFC Indonesia Tbk.                                 --S9---2      2,840      2,900       60     2.11          1                100              290,000   2
+  456 NICK            Charnic Capital Tbk.                               --U9---2        306        310        4     1.31          1                200               62,000   2
+  457 NIKL            Pelat Timah Nusantara Tbk.                         --U3---1        560        530      -30    -5.36      1,267          6,896,000        3,790,116,000   1
+  458 NIPS            Nipress Tbk.                                       --U4---2        282        282        0     0.00          0                  0                    0   2
+  459 NIRO            City Retail Developments Tbk.                      --U6---2        150        150        0     0.00         14            404,100           60,611,300   2
+  460 NISP            Bank OCBC NISP Tbk.                                --U8---1        845        850        5     0.59          8             18,100           15,386,000   1
+  461 NOBU            Bank Nationalnobu Tbk.                             --U8---1        915        915        0     0.00          1                100               91,500   1
+  462 NRCA            Nusa Raya Cipta Tbk.                               --U6---1        354        354        0     0.00         22             17,200            6,092,200   1
+  463 NUSA            Sinergi Megah Internusa Tbk.                       --U9---2         50         50        0     0.00         10              2,700              135,000   2
+  464 NZIA            Nusantara Almazia Tbk.                             --U6---1        488        482       -6    -1.23          5              2,000              964,600   1
+  465 OASA            Protech Mitra Perkasa Tbk.                         --U7---2        362        362        0     0.00          0                  0                    0   2
+  466 OCAP            Onix Capital Tbk.                                  --U9---2        198        195       -3    -1.52          4                600              116,900   2
+  467 OKAS            Ancora Indonesia Resources Tbk.                    --U9---2        129        118      -11    -8.53        116            510,100           62,431,700   2
+  468 OMRE            Indonesia Prima Property Tbk                       --U6---2        825        825        0     0.00          0                  0                    0   2
+  469 OPMS            Optima Prima Metal Sinergi Tbk.                    --U9---2         84         81       -3    -3.57         99            993,300           81,582,800   2
+  470 PADI            Minna Padi Investama Sekuritas Tbk.                --U8---1         50         50        0     0.00          3                300               15,000   1
+  471 PALM            Provident Agro Tbk.                                --U1---2        191        191        0     0.00          1                100               19,100   2
+  472 PAMG            Bima Sakti Pertiwi Tbk.                            --U6---1        129        116      -13   -10.08        891          9,081,200        1,084,057,900   1
+  473 PANI            Pratama Abadi Nusa Industri Tbk.                   --U5---2         91         91        0     0.00          4              8,900              809,900   2
+  474 PANR            Panorama Sentrawisata Tbk.                         --U9---1        280        280        0     0.00        163          1,069,900          299,566,000   1
+  475 PANS            Panin Sekuritas Tbk.                               --U8---1      1,300      1,300        0     0.00          2              1,400            1,820,000   1
+  476 PBID            Panca Budi Idaman Tbk.                             --U3---1      1,005      1,005        0     0.00          0                  0                    0   1
+  477 PBRX            Pan Brothers Tbk.                                  --S4---1        294        342       48    16.33        212          1,208,700          394,840,400   1
+  478 PBSA            Paramita Bangun Sarana Tbk.                        --U6---1        760        690      -70    -9.21          8             30,200           19,686,500   1
+  479 PCAR            Prima Cakrawala Abadi Tbk.                         --U5---2        228        236        8     3.51         12              4,600            1,127,800   2
+  480 PDES            Destinasi Tirta Nusantara Tbk                      --U9---2        900        900        0     0.00          0                  0                    0   2
+  481 PEGE            Panca Global Kapital Tbk.                          --U9---2        134        134        0     0.00          0                  0                    0   2
+  482 PEHA            Phapros Tbk.                                       --U5---2        970        975        5     0.52          7              7,800            7,567,500   2
+  483 PGAS            Perusahaan Gas Negara Tbk.                         --S7BXO1      1,520      1,540       20     1.32     12,664        110,802,500      170,667,338,000   1
+  484 PGJO            Tourindo Guide Indonesia Tbk.                      --U----3         89         88       -1    -1.12         21             31,700            2,775,200   3
+  485 PGLI            Pembangunan Graha Lestari Indah Tbk.               --U9---2        344        344        0     0.00          0                  0                    0   2
+  486 PICO            Pelangi Indah Canindo Tbk                          --U3---2        870        995      125    14.37        355          1,007,500          987,249,000   2
+  487 PJAA            Pembangunan Jaya Ancol Tbk.                        --U9---1        915        915        0     0.00          3              1,700            1,555,500   1
+  488 PKPK            Perdana Karya Perkasa Tbk                          --U2---2         58         56       -2    -3.45        196          1,856,300          107,402,500   2
+  489 PLAS            Polaris Investama Tbk                              --U9---2         50         50        0     0.00          0                  0                    0   2
+  490 PLIN            Plaza Indonesia Realty Tbk.                        --U6---1      3,150      3,150        0     0.00          0                  0                    0   1
+  491 PMJS            Putra Mandiri Jembar Tbk.                          --U9---2        127        127        0     0.00         95            565,200           70,824,800   2
+  492 PNBN            Bank Pan Indonesia Tbk                             --M8K--1      1,195      1,185      -10    -0.84        172          1,052,900        1,253,073,500   1
+  493 PNBS            Bank Panin Dubai Syariah Tbk.                      --U8---1         50         50        0     0.00          5              1,300               65,000   1
+  494 PNIN            Paninvest Tbk.                                     --U8---1      1,030      1,055       25     2.43         13              8,900            9,089,500   1
+  495 PNLF            Panin Financial Tbk.                               --S8K--1        276        272       -4    -1.45        346          5,337,300        1,459,923,400   1
+  496 PNSE            Pudjiadi & Sons Tbk.                               --U9---2        320        320        0     0.00          0                  0                    0   2
+  497 POLA            Pool Advista Finance Tbk.                          --U8---2        106         95      -11   -10.38      2,144         14,650,900        1,545,045,600   2
+  498 POLI            Pollux Investasi Internasional Tbk.                --U6---2      1,430      1,320     -110    -7.69         20              4,400            5,729,500   2
+  499 POLL            Pollux Properti Indonesia Tbk.                     --U6---1     10,825     11,100      275     2.54      2,095            703,200        7,702,580,000   1
+  500 POLU            Golden Flower Tbk.                                 --U4---2      2,130      2,130        0     0.00          0                  0                    0   2
+  501 POLY            Asia Pacific Fibers Tbk                            --U4---2         53         52       -1    -1.89         88            676,800           35,225,800   2
+  502 POOL            Pool Advista Indonesia Tbk.                        --U9---2         50         50        0     0.00         17            141,500            7,075,000   2
+  503 PORT            Nusantara Pelabuhan Handal Tbk.                    --U7---2        595        720      125    21.01          6                600              400,000   2
+  504 POSA            Bliss Properti Indonesia Tbk.                      --U6---2         50         50        0     0.00          2                200               10,000   2
+  505 POWR            Cikarang Listrindo Tbk.                            --M7---2        835        830       -5    -0.60        256          2,518,700        2,093,269,500   2
+  506 PPRE            PP Presisi Tbk.                                    --U7---1        226        214      -12    -5.31      2,131         13,982,800        3,063,833,400   1
+  507 PPRO            PP Properti Tbk.                                   --U6K--1         54         54        0     0.00      1,926         72,217,400        3,940,304,300   1
+  508 PRAS            Prima Alloy Steel Universal Tbk.                   --U4---1        135        135        0     0.00          0                  0                    0   1
+  509 PRDA            Prodia Widyahusada Tbk.                            --U9---1      3,690      3,800      110     2.98          3              3,400           12,880,000   1
+  510 PRIM            Royal Prima Tbk.                                   --U9---2        306        344       38    12.42         35             50,000           17,930,800   2
+  511 PSAB            J Resources Asia Pasifik Tbk.                      --M2---2        222        242       20     9.01      1,776         67,419,200       15,532,341,800   2
+  512 PSDN            Prasidha Aneka Niaga Tbk                           --U5---2        153        169       16    10.46          7             93,600           15,814,000   2
+  513 PSGO            Palma Serasih Tbk.                                 --U5---2        138        135       -3    -2.17         21             37,100            5,003,000   2
+  514 PSKT            Red Planet Indonesia Tbk.                          --U9---2         50         50        0     0.00          1                100                5,000   2
+  515 PSSI            Pelita Samudera Shipping Tbk.                      --U7---1        165        165        0     0.00          1                100               16,500   1
+  516 PTBA            Bukit Asam Tbk.                                    --S2BXO1      2,290      2,320       30     1.31      2,723         11,738,300       27,179,101,000   1
+  517 PTIS            Indo Straits Tbk.                                  --U7---1         79         73       -6    -7.59          4              7,900              577,300   1
+  518 PTPP            PP (Persero) Tbk.                                  --S6XXO1      1,450      1,475       25     1.72      3,358         17,823,500       26,203,559,000   1
+  519 PTPW            Pratama Widya Tbk.                                 --U7---2        650        975      325    50.00         63          2,045,200        1,994,070,000   2
+  520 PTRO            Petrosea Tbk.                                      --S2---1      1,500      1,500        0     0.00        117            287,600          432,536,500   1
+  521 PTSN            Sat Nusapersada Tbk                                --M4---1        230        240       10     4.35         55            300,800           71,645,600   1
+  522 PTSP            Pioneerindo Gourmet International Tbk.             --U9---2      4,550      4,550        0     0.00          0                  0                    0   2
+  523 PUDP            Pudjiadi Prestige Tbk.                             --U9---1        300        300        0     0.00          0                  0                    0   1
+  524 PURA            Putra Rajawali Kencana Tbk.                        --U7---2        189        191        2     1.06      7,602        133,859,000       26,173,624,300   2
+  525 PURE            Trinitan Metals and Minerals Tbk.                  --U3---1        168        183       15     8.93      3,818         32,184,600        6,149,329,400   1
+  526 PWON            Pakuwon Jati Tbk.                                  --S6B3O1        535        535        0     0.00      4,362         35,073,300       18,864,881,500   1
+  527 PYFA            Pyridam Farma Tbk                                  --U5---2        199        199        0     0.00          3             25,100            4,994,800   2
+  528 PZZA            Sarimelati Kencana Tbk.                            --U9---1      1,000      1,000        0     0.00         54             73,300           73,215,000   1
+  529 RAJA            Rukun Raharja Tbk.                                 --S7---1        126        126        0     0.00         83            738,100           93,162,500   1
+  530 RALS            Ramayana Lestari Sentosa Tbk.                      --S9K--1      1,090      1,075      -15    -1.38        868          5,343,100        5,770,794,500   1
+  531 RANC            Supra Boga Lestari Tbk.                            --U9---1        300        300        0     0.00         13            378,000          113,400,000   1
+  532 RBMS            Ristia Bintang Mahkotasejati Tbk.                  --U6---1         67         67        0     0.00         15             94,000            6,455,500   1
+  533 RDTX            Roda Vivatex Tbk                                   --U6---1      5,250      5,250        0     0.00          0                  0                    0   1
+  534 REAL            Repower Asia Indonesia Tbk.                        --U6---2        163        165        2     1.23     12,127        100,546,700       16,080,998,500   2
+  535 RELI            Reliance Sekuritas Indonesia Tbk.                  --U8---1        185        185        0     0.00          0                  0                    0   1
+  536 RICY            Ricky Putra Globalindo Tbk                         --U4---1        151        151        0     0.00          0                  0                    0   1
+  537 RIGS            Rig Tenders Indonesia Tbk.                         --U7---2        302        280      -22    -7.28      1,560         12,036,800        3,477,760,600   2
+  538 RIMO            Rimo International Lestari Tbk                     --U6---2         50         50        0     0.00          0                  0                    0   2
+  539 RISE            Jaya Sukses Makmur Sentosa Tbk.                    --U6---2        478        476       -2    -0.42         63            342,000          163,252,800   2
+  540 RMBA            Bentoel Internasional Investama Tbk.               --U5---1        300        316       16     5.33          1                100               31,600   1
+  541 RODA            Pikko Land Development Tbk.                        --U6---2         53         53        0     0.00         88          2,730,200          145,032,300   2
+  542 ROTI            Nippon Indosari Corpindo Tbk.                      --S5---1      1,300      1,300        0     0.00         96            282,900          367,140,000   1
+  543 RUIS            Radiant Utama Interinsco Tbk.                      --U2---2        220        220        0     0.00          0                  0                    0   2
+  544 SAFE            Steady Safe Tbk                                    --U7---2        175        184        9     5.14         43            204,200           37,397,700   2
+  545 SAME            Sarana Meditama Metropolitan Tbk.                  --M9---2        200        202        2     1.00         15             19,600            3,959,700   2
+  546 SAPX            Satria Antaran Prima Tbk.                          --U7---2        935        935        0     0.00          0                  0                    0   2
+  547 SATU            Kota Satu Properti Tbk.                            --U6---2         57         58        1     1.75         12            210,600           11,754,000   2
+  548 SCBD            Danayasa Arthatama Tbk.                            --U6---2      2,700      2,700        0     0.00          0                  0                    0   2
+  549 SCCO            Supreme Cable Manufacturing & Commerce Tbk.        --U4---1      9,200      9,200        0     0.00          1              1,000            9,200,000   1
+  550 SCMA            Surya Citra Media Tbk.                             --S9XXO1      1,405      1,395      -10    -0.71      1,543         12,437,900       17,257,576,000   1
+  551 SCPI            Merck Sharp Dohme Pharma Tbk.                      --U5---2     29,000     29,000        0     0.00          0                  0                    0   2
+  552 SDMU            Sidomulyo Selaras Tbk.                             --U7---2         50         50        0     0.00          0                  0                    0   2
+  553 SDPC            Millennium Pharmacon International Tbk.            --U9---1        100         96       -4    -4.00        123          1,462,000          140,091,000   1
+  554 SDRA            Bank Woori Saudara Indonesia 1906 Tbk.             --U8---1        760        800       40     5.26          1                100               80,000   1
+  555 SFAN            Surya Fajar Capital Tbk.                           --U9---2        950        950        0     0.00          4             10,200            9,640,000   2
+  556 SGRO            Sampoerna Agro Tbk.                                --U1---1      2,380      2,380        0     0.00          0                  0                    0   1
+  557 SHID            Hotel Sahid Jaya International Tbk.                --U9---2      3,500      3,500        0     0.00          0                  0                    0   2
+  558 SHIP            Sillo Maritime Perdana Tbk.                        --M7---2        745        740       -5    -0.67         81            680,900          504,345,000   2
+  559 SIDO            Industri Jamu dan Farmasi Sido Muncul Tbk.         --M5K--1      1,200      1,210       10     0.83        560          3,285,500        3,958,584,500   1
+  560 SILO            Siloam International Hospitals Tbk.                --M9K--1      6,575      6,575        0     0.00        124            204,100        1,341,555,000   1
+  561 SIMA            Siwani Makmur Tbk                                  --U9---2         50         50        0     0.00          5             61,000            3,050,000   2
+  562 SIMP            Salim Ivomas Pratama Tbk.                          --M1---1        384        380       -4    -1.04        384          3,501,300        1,332,000,800   1
+  563 SINI            Singaraja Putra Tbk.                               --U3---2      1,490      1,490        0     0.00          0                  0                    0   2
+  564 SIPD            Sierad Produce Tbk.                                --U3---2        960        915      -45    -4.69          2              3,000            2,745,000   2
+  565 SKBM            Sekar Bumi Tbk.                                    --U5---2        360        400       40    11.11          2                300              121,400   2
+  566 SKLT            Sekar Laut Tbk.                                    --U5---2      1,610      1,610        0     0.00          0                  0                    0   2
+  567 SKRN            Superkrane Mitra Utama Tbk.                        --S6---2        505        505        0     0.00         16              8,600            4,368,000   2
+  568 SKYB            Northcliff Citranusa Indonesia Tbk.                --U9---2         57         57        0     0.00        282            756,900           43,414,400   2
+  569 SLIS            Gaya Abadi Sempurna Tbk.                           --U4---2      4,720      4,790       70     1.48         29             17,400           83,355,000   2
+  570 SMAR            Smart Tbk.                                         --U1---2      3,830      3,830        0     0.00          1                200              766,000   2
+  571 SMBR            Semen Baturaja (Persero) Tbk.                      --M3K--1        356        338      -18    -5.06     10,567         83,261,400       30,980,191,000   1
+  572 SMCB            Solusi Bangun Indonesia Tbk.                       --U3K--1        995        995        0     0.00         11             14,200           14,193,000   1
+  573 SMDM            Suryamas Dutamakmur Tbk.                           --U6---2        120        120        0     0.00          5              4,100              445,500   2
+  574 SMDR            Samudera Indonesia  Tbk.                           --U7---1        206        204       -2    -0.97         40             77,000           15,831,200   1
+  575 SMGR            Semen Indonesia (Persero) Tbk.                     --S3B3O1     12,400     12,350      -50    -0.40      3,822          5,738,200       71,171,967,500   1
+  576 SMKL            Satyamitra Kemas Lestari Tbk.                      --U3---1        212        208       -4    -1.89         11            113,400           23,567,200   1
+  577 SMMA            Sinarmas Multiartha Tbk.                           --U8---1     15,225     15,225        0     0.00          0                  0                    0   1
+  578 SMMT            Golden Eagle Energy Tbk.                           --U2---2        106        111        5     4.72          2                300               33,000   2
+  579 SMRA            Summarecon Agung Tbk.                              --S6K--1        895        895        0     0.00      1,636         10,713,300        9,629,660,500   1
+  580 SMRU            SMR Utama Tbk.                                     --U2---2         50         50        0     0.00          0                  0                    0   2
+  581 SMSM            Selamat Sempurna Tbk.                              --S4K--1      1,440      1,425      -15    -1.04        570          1,720,500        2,458,945,500   1
+  582 SOCI            Soechi Lines Tbk.                                  --M7---1        141        140       -1    -0.71        868          6,478,000          902,084,100   1
+  583 SONA            Sona Topas Tourism Industry Tbk.                   --U9---1      5,275      5,275        0     0.00          0                  0                    0   1
+  584 SOSS            Shield On Service Tbk.                             --U9---2        338        388       50    14.79         25            122,100           47,812,400   2
+  585 SOTS            Satria Mega Kencana Tbk.                           --U9---2        236        236        0     0.00          0                  0                    0   2
+  586 SPMA            Suparma Tbk.                                       --U3---1        304        306        2     0.66          4                800              245,000   1
+  587 SPTO            Surya Pertiwi Tbk.                                 --S9K--2        840        840        0     0.00         95          1,481,100        1,242,773,000   2
+  588 SQMI            Wilton Makmur Indonesia Tbk.                       --U9---2        234        236        2     0.85      1,066          9,605,500        2,332,745,200   2
+  589 SRAJ            Sejahteraraya Anugrahjaya Tbk.                     --U9---1        258        262        4     1.55          1                200               52,400   1
+  590 SRIL            Sri Rejeki Isman Tbk.                              --S4LKO1        222        224        2     0.90        602          8,765,400        1,955,340,800   1
+  591 SRSN            Indo Acidatama Tbk                                 --U3---1         59         58       -1    -1.69         61          1,379,800           81,034,600   1
+  592 SRTG            Saratoga Investama Sedaya Tbk.                     --U9---2      3,560      3,580       20     0.56          7             29,100          104,228,000   2
+  593 SSIA            Surya Semesta Internusa Tbk.                       --S6K--1        690        700       10     1.45        870         20,622,700       14,200,744,500   1
+  594 SSMS            Sawit Sumbermas Sarana Tbk.                        --S1K--1        800        800        0     0.00        466         64,985,400       51,503,385,000   1
+  595 SSTM            Sunson Textile Manufacture Tbk                     --U4---2        500        500        0     0.00          0                  0                    0   2
+  596 STAR            Buana Artha Anugerah Tbk.                          --U4---1        160        159       -1    -0.62         23            453,000           71,401,100   1
+  597 STTP            Siantar Top Tbk.                                   --U5---2      3,700      4,600      900    24.32          7             19,100           70,780,000   2
+  598 SUGI            Sugih Energy Tbk.                                  --U9---2         50         50        0     0.00          0                  0                    0   2
+  599 SULI            SLJ Global Tbk.                                    --U3---1         51         51        0     0.00          7            212,800           10,640,100   1
+  600 SUPR            Solusi Tunas Pratama Tbk.                          --U7---2      4,000      4,000        0     0.00          0                  0                    0   2
+  601 SURE            Super Energy Tbk.                                  --U2---2      2,980      2,980        0     0.00          0                  0                    0   2
+  602 SWAT            Sriwahana Adityakarta Tbk.                         --U3---2         90         89       -1    -1.11         34            318,000           28,624,100   2
+  603 TALF            Tunas Alfin Tbk.                                   --U3---2        234        262       28    11.97          5              5,600            1,451,000   2
+  604 TAMU            Pelayaran Tamarin Samudra Tbk.                     --U7---2        214        220        6     2.80        322         28,977,400        6,204,200,200   2
+  605 TARA            Sitara Propertindo Tbk.                            --U6---1        198        198        0     0.00          0                  0                    0   1
+  606 TAXI            Express Transindo Utama Tbk.                       --U7---1         50         50        0     0.00          0                  0                    0   1
+  607 TBIG            Tower Bersama Infrastructure Tbk.                  --S7LKO1      1,200      1,225       25     2.08      3,842         37,157,600       45,388,569,500   1
+  608 TBLA            Tunas Baru Lampung Tbk.                            --S5---1        840        840        0     0.00         78            263,300          220,143,000   1
+  609 TBMS            Tembaga Mulia Semanan Tbk.                         --U3---2        800        800        0     0.00          0                  0                    0   2
+  610 TCID            Mandom Indonesia Tbk.                              --U5---1      9,800      9,800        0     0.00          0                  0                    0   1
+  611 TCPI            Transcoal Pacific Tbk.                             --U7---2      6,375      6,525      150     2.35      8,162          6,057,100       39,185,810,000   2
+  612 TDPM            Tridomain Performance Materials Tbk.               --U3K--1        197        198        1     0.51         37            225,500           44,782,200   1
+  613 TEBE            Dana Brata Luhur Tbk.                              --U7---2      1,800      1,800        0     0.00        195            277,900          500,578,500   2
+  614 TELE            Tiphone Mobile Indonesia Tbk.                      --S9K--1        210        210        0     0.00      2,891         71,554,200       15,130,308,800   1
+  615 TFAS            Telefast Indonesia Tbk.                            --U9---2        131        140        9     6.87         43             35,700            5,091,800   2
+  616 TFCO            Tifico Fiber Indonesia Tbk.                        --U4---2        350        352        2     0.57          1                100               35,200   2
+  617 TGKA            Tigaraksa Satria Tbk.                              --U9---2      5,000      5,000        0     0.00          0                  0                    0   2
+  618 TGRA            Terregra Asia Energy Tbk.                          --U7---1        104        110        6     5.77        795          8,983,900          998,899,000   1
+  619 TIFA            Tifa Finance Tbk.                                  --U8---2        210        210        0     0.00          0                  0                    0   2
+  620 TINS            Timah Tbk.                                         --S2K--1        740        730      -10    -1.35        931          8,535,300        6,285,862,500   1
+  621 TIRA            Tira Austenite Tbk                                 --U9---2        258        258        0     0.00          3              1,700              438,600   2
+  622 TIRT            Tirta Mahakam Resources Tbk                        --U3---1         51         51        0     0.00          7              8,900              447,400   1
+  623 TKIM            Pabrik Kertas Tjiwi Kimia Tbk.                     --S3B3O1      8,700      8,850      150     1.72      1,195          1,185,200       10,423,152,500   1
+  624 TLKM            Telekomunikasi Indonesia (Persero) Tbk.            --S7BXO1      3,760      3,790       30     0.80      4,868         53,578,900      203,296,314,000   1
+  625 TMAS            Temas Tbk.                                         --M7---1         92         91       -1    -1.09        184          1,165,400          107,383,500   1
+  626 TMPO            Tempo Intimedia Tbk.                               --U9---2        153        153        0     0.00          0                  0                    0   2
+  627 TNCA            Trimuda Nuansa Citra Tbk.                          --M7---2        244        254       10     4.10          7             14,100            3,592,600   2
+  628 TOBA            Toba Bara Sejahtra Tbk.                            --U2---1        350        350        0     0.00          1                100               35,000   1
+  629 TOPS            Totalindo Eka Persada Tbk.                         --U6K--1        158        143      -15    -9.49      1,007         11,133,000        1,664,875,700   1
+  630 TOTL            Total Bangun Persada Tbk.                          --S6---1        410        410        0     0.00         61          1,939,900          799,272,400   1
+  631 TOTO            Surya Toto Indonesia Tbk.                          --U3---2        262        258       -4    -1.53         67            297,000           77,734,200   2
+  632 TOWR            Sarana Menara Nusantara Tbk.                       --S7B3O1        850        880       30     3.53     16,569        141,044,800      122,440,318,000   1
+  633 TPIA            Chandra Asri Petrochemical Tbk.                    --U3IK-2      8,725      8,800       75     0.86        636          2,759,400       24,170,512,500   2
+  634 TPMA            Trans Power Marine Tbk.                            --U7---2        290        290        0     0.00          0                  0                    0   2
+  635 TRAM            Trada Alam Minera Tbk.                             --U2---1         50         50        0     0.00          0                  0                    0   1
+  636 TRIL            Triwira Insanlestari Tbk.                          --U9---2         50         50        0     0.00          0                  0                    0   2
+  637 TRIM            Trimegah Sekuritas Indonesia Tbk.                  --U8---1        138        138        0     0.00          2             20,100            2,773,800   1
+  638 TRIN            Perintis Triniti Properti Tbk.                     --U6---2        250        238      -12    -4.80      1,485         19,210,200        4,654,148,600   2
+  639 TRIO            Trikomsel Oke Tbk.                                 --U9---1        426        426        0     0.00          0                  0                    0   1
+  640 TRIS            Trisula International Tbk.                         --U4---2        296        298        2     0.68         72            839,300          250,516,200   2
+  641 TRST            Trias Sentosa Tbk.                                 --U3---1        380        380        0     0.00          0                  0                    0   1
+  642 TRUK            Guna Timur Raya Tbk.                               --S7---2         88         88        0     0.00         13            161,300           14,045,400   2
+  643 TRUS            Trust Finance Indonesia Tbk                        --U8---2        336        350       14     4.17          1                100               35,000   2
+  644 TSPC            Tempo Scan Pacific Tbk.                            --U5---1      1,370      1,370        0     0.00          7              5,200            7,098,500   1
+  645 TUGU            Asuransi Tugu Pratama Indonesia Tbk.               --U8---2      3,480      3,470      -10    -0.29          2              1,000            3,470,000   2
+  646 TURI            Tunas Ridean Tbk.                                  --U9---1      1,010      1,010        0     0.00         26          1,996,500        2,006,953,000   1
+  647 UCID            Uni-Charm Indonesia Tbk.                           --U4---1      1,815      1,800      -15    -0.83        605            881,000        1,583,977,500   1
+  648 ULTJ            Ultra Jaya Milk Industry & Trading Company, Tbk.   --S5---1      1,610      1,605       -5    -0.31        135            183,600          296,465,500   1
+  649 UNIC            Unggul Indah Cahaya Tbk.                           --U3---1      3,450      3,450        0     0.00          5              1,000            3,450,000   1
+  650 UNIT            Nusantara Inti Corpora Tbk                         --U4---2        164        164        0     0.00          1                100               16,400   2
+  651 UNSP            Bakrie Sumatera Plantations Tbk.                   --U1---1         94         94        0     0.00         26            104,300            9,831,300   1
+  652 UNTR            United Tractors Tbk.                               --S9BXO1     18,700     18,800      100     0.53      3,258          3,671,200       69,107,247,500   1
+  653 UNVR            Unilever Indonesia Tbk.                            --M5BXO1      7,950      7,900      -50    -0.63      5,313         11,461,800       90,802,820,000   1
+  654 URBN            Urban Jakarta Propertindo Tbk.                     --U6---2      1,790      2,030      240    13.41        598          2,939,800        5,683,243,000   2
+  655 VICO            Victoria Investama Tbk.                            --U8---1        112        112        0     0.00          0                  0                    0   1
+  656 VINS            Victoria Insurance Tbk.                            --U8---2        113        110       -3    -2.65          8              5,200              572,500   2
+  657 VIVA            Visi Media Asia Tbk.                               --U9---1         50         50        0     0.00         59        120,135,600        6,006,780,000   1
+  658 VOKS            Voksel Electric Tbk.                               --U4---1        290        296        6     2.07         64            393,100          115,346,200   1
+  659 VRNA            Verena Multi Finance Tbk.                          --U8---2        130        130        0     0.00          1              7,800            1,014,000   2
+  660 WAPO            Wahana Pronatural Tbk.                             --U9---2         78         78        0     0.00          2             51,600            4,024,800   2
+  661 WEGE            Wijaya Karya Bangunan Gedung Tbk.                  --S6K--1        290        282       -8    -2.76        609          8,547,500        2,446,747,600   1
+  662 WEHA            WEHA Transportasi Indonesia Tbk.                   --U7---1        151        152        1     0.66        186          2,148,300          325,408,300   1
+  663 WICO            Wicaksana Overseas International Tbk.              --U9---2        500        492       -8    -1.60          2                200               98,400   2
+  664 WIIM            Wismilak Inti Makmur Tbk.                          --S5---1        140        139       -1    -0.71         59            164,900           22,887,400   1
+  665 WIKA            Wijaya Karya (Persero) Tbk.                        --S6XXO1      2,020      1,975      -45    -2.23      2,833         10,845,000       21,609,813,500   1
+  666 WINS            Wintermar Offshore Marine Tbk.                     --U7---1         96         91       -5    -5.21         11             95,500            8,675,800   1
+  667 WOMF            Wahana Ottomitra Multiartha Tbk.                   --U8---1        262        258       -4    -1.53         19            141,100           37,027,400   1
+  668 WOOD            Integra Indocabinet Tbk.                           --S5K--1        492        500        8     1.63      1,906         36,420,500       18,029,243,100   1
+  669 WOWS            Ginting Jaya Energi Tbk.                           --U2---2        107        104       -3    -2.80        462          4,377,100          445,070,900   2
+  670 WSBP            Waskita Beton Precast Tbk.                         --S3K--1        264        256       -8    -3.03      1,714         22,363,200        5,793,860,800   1
+  671 WSKT            Waskita Karya (Persero) Tbk.                       --S6LKO1      1,230      1,195      -35    -2.85      4,626         40,192,300       48,304,375,500   1
+  672 WTON            Wijaya Karya Beton Tbk.                            --S3K--1        404        402       -2    -0.50        343          4,746,400        1,912,600,800   1
+  673 YELO            Yelooo Integra Datanet Tbk.                        --S9---2         62         61       -1    -1.61        140            904,800           55,395,000   2
+  674 YPAS            Yanaprima Hastapersada Tbk                         --U3---2        530        398     -132   -24.91          3              6,100            3,220,800   2
+  675 YULE            Yulie Sekuritas Indonesia Tbk.                     --U8---2        200        200        0     0.00          0                  0                    0   2
+  676 ZBRA            Zebra Nusantara Tbk                                --U9---2         58         63        5     8.62        866          4,874,900          320,950,100   2
+  677 ZINC            Kapuas Prima Coal Tbk.                             --U2---2        358        356       -2    -0.56        768         19,908,700        7,071,481,800   2
+  678 ZONE            Mega Perintis Tbk.                                 --U4---2        490        488       -2    -0.41         45            490,600          238,604,000   2
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,4 +1,4 @@
-http://www.idxdata.co.id/Download_Data/Daily/Stock_Summary/SS200124.zip
-http://www.idxdata.co.id/Download_Data/Daily/Stock_First_Trx/SO200124.zip
-http://www.idxdata.co.id/Download_Data/Daily/Foreign_Avail/FI200124.zip
-http://www.idxdata.co.id/Market_Summary/Stock_Quotation/SQ200124.TXT
+http://www.idxdata.co.id/Download_Data/Daily/Stock_Summary/SS200207.zip
+http://www.idxdata.co.id/Download_Data/Daily/Stock_First_Trx/SO200207.zip
+http://www.idxdata.co.id/Download_Data/Daily/Foreign_Avail/FI200207.zip
+http://www.idxdata.co.id/Market_Summary/Stock_Quotation/SQ200207.TXT
