@@ -64,7 +64,7 @@ else
 	/usr/bin/rm $baseFolder/$fileSS$dateDwl.zip
 	/usr/bin/mv $baseFolder/$fileSS$dateDwl.DBF $baseFolder/$fileSS$dateDwl.dbf
 	$dbf2csv $baseFolder/$fileSS$dateDwl.dbf
-	/usr/bin/rm $baseFolder/$fileSS$dateDwl.dbf
+	#/usr/bin/rm $baseFolder/$fileSS$dateDwl.dbf
 	#------------------ Master Stock
 	/usr/bin/awk -F',' 'NR>1{print $2","$3}' $baseFolder/$fileSS$dateDwl.csv > $fileMasterStock
 	/usr/bin/awk -F',' 'NR>1{print $2","$1","0","$5","$6","$7","$8","$9","0","0","0","0}' $baseFolder/$fileSS$dateDwl.csv > $file1

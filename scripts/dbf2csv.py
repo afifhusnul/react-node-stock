@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import csv
-from dbfpy import dbf
+from dbfpy3 import dbf
 import os
 import sys
 
@@ -9,7 +9,7 @@ filename = sys.argv[1]
 if filename.endswith('.dbf'):
     print ("Converting %s to csv" %(filename))
     csv_fn = filename[:-4]+ ".csv"
-    with open(csv_fn,'wb') as csvfile:
+    with open(csv_fn,'w') as csvfile:
         in_db = dbf.Dbf(filename)
         out_csv = csv.writer(csvfile)
         names = []
