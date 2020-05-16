@@ -11,3 +11,6 @@ There are 4 files need to be downloaded, please refer to file `goDownload.sh`
 After downloaded those zip file need to extract and convert into csv file to be able to load into postgresql table
 
 To convert DBF to csv need to download `https://gist.github.com/bertspaan/8220892`
+Additional tools need to install
+ sudo apt-get install python3-pip   
+ pip3 install dbfpy

@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd /home/$USER/www/stock/new/node-stock/
+cd /home/$USER/www/stock/node-stock/
 nodemon

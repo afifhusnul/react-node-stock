@@ -27,12 +27,12 @@ types.setTypeParser(DATE_OID, parseDate);
 module.exports = {
   development: {
     client: 'pg',
-    connection: 'postgres://postgres:postgres@localhost:5432/amibroker',
+    connection: 'postgres://msa:digi123@localhost:5432/amibroker',
     charset  : 'utf8'
   },
   test: {
     client: 'pg',
-    connection: 'postgres://postgres:postgres@localhost:5432/amibroker',
+    connection: 'postgres://msa:digi123@localhost:5432/amibroker',
     charset  : 'utf8'
   },
   production: {

@@ -1,5 +1,5 @@
 #!/bin/bash
-setproxy
+#setproxy
 
 #--------- Define today's date
 todayDt=`date '+%y%m%d'`
@@ -18,10 +18,10 @@ dwl_3=Download_Data/Daily/Foreign_Avail/FI
 dwl_4=Market_Summary/Stock_Quotation/SQ
 
 #----------- Define Download Folder
-dbf2csv=/home/msa/www/stock/new/scripts/dbf2csv.py
-loadData=/home/msa/www/stock/new/scripts/loadPg.sh
-genAmibroker=/home/msa/www/stock/new/scripts/genAmibroker.sh
-baseFolder=/home/msa/www/stock/new/bei-files
+dbf2csv=/home/msa/www/stock/scripts/dbf2csv.py
+loadData=/home/msa/www/stock/scripts/loadPg.sh
+genAmibroker=/home/msa/www/stock/scripts/genAmibroker.sh
+baseFolder=/home/msa/www/stock/bei-files
 
 fileMasterStock=$baseFolder/insert/stockMaster.csv
 file1=$baseFolder/insert/stockTrxIdx.csv
@@ -33,8 +33,8 @@ tempfile4=$baseFolder/insert/stockTrxFreq_1.txt
 /usr/bin/rm $file1 $file2 $file3 $file4 $tempFile4
 
 #----------- Get input date to download data (format YYYY-MM-DD)
-#read -p "Enter date , Format --> (YYMMDD) : " dateDwl
-dateDwl=$todayDt
+read -p "Enter date , Format --> (YYMMDD) : " dateDwl
+#dateDwl=$todayDt
 
 #----------- Use it later to add date into csv files
 fullDt="20"${dateDwl:0:2}"-"${dateDwl:2:2}"-"${dateDwl:4:2}
@@ -107,7 +107,7 @@ else
 	head -n -2 $baseFolder/insert/Freq4.txt > $baseFolder/insert/Freq5.txt
 	/usr/bin/awk -F'|' '{print $1"|""'$fullDt'""|"$2}' $baseFolder/insert/Freq5.txt > $baseFolder/insert/Freq6.txt
 	/usr/bin/sed 's/,//g' $baseFolder/insert/Freq6.txt > $baseFolder/insert/stockTrxFreq.txt
-	/usr/bin/rm $baseFolder/insert/F*.txt
+	/usr/bin/rm $baseFolder/insert/Freq*.txt
 
 	#----------- List file
 	ls -l $baseFolder && ls -l $baseFolder/insert
