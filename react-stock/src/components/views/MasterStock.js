@@ -16,18 +16,21 @@ export default class MasterStock extends Component {
       currentPage: 1,
       totalPages: 0,
       pageLimit: 15,
-      show: false
+      show: false,
+      tickerNew: undefined
+      
     };    
   }
 
   refModalInfo = ({handleShow}) => {
     this.showModal = handleShow;
+    //this.tickerNew = this.state.tickerId;
+    console.log("Ticker Master: ", this.state.tickerNew)
   }
  
   onModalClick = (tickerId) => {
+    this.setState({tickerNew : tickerId}, () => { console.log("Ticker Master: ", this.state.tickerNew)});
     this.showModal();
-    this.setState({ tickerId});
-    //console.log("Ticker : ", tickerId)
   }
 
   
@@ -63,7 +66,7 @@ export default class MasterStock extends Component {
   const rows = trimmedData.map((single) => (     
     <tr key={single.id_ticker}>
       <td onClick={this.onModalClick.bind(this, single.id_ticker)}><a href="/#master">{single.id_ticker}</a></td>
-      <td onClick={this.showModal}>{single.nm_ticker}</td>
+      <td>{single.nm_ticker}</td>
     </tr>
     )
   );

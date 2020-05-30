@@ -10,23 +10,12 @@ export default class ModalResSupport extends Component {
       this.handleClose = this.handleClose.bind(this);
       this.state = {
           show: false,          
-          response: []          
+          response: []
       }      
   }
   
-  handleShow() {    
-    this.setState({ show: true })
-    //console.log(this.state)
-  }
-  
-
-  handleClose(){
-      this.setState({ show: false })
-  }
-
-  async componentDidMount() {
-    // const { pageLimit } = this.state
-    // let { tickerId } = this.props.params;
+  async handleShow() {    
+    this.setState({ show: true })      
     try {
         const result = await Api.get("/stockinfo/wika")
         console.log(result.data)
@@ -38,13 +27,16 @@ export default class ModalResSupport extends Component {
         console.log(`😱 Axios request failed: ${e}`);
       }
   }
+  
 
+  handleClose(){
+      this.setState({ show: false })
+  }
+  
   render() {    
     const { response } = this.state;
     const totalResponses = response.length;  
-    if (totalResponses === 0) return null;
-
-    
+    if (totalResponses === 0) return null;    
 
     return (
       <Modal show={this.state.show} onHide={this.handleClose} 
