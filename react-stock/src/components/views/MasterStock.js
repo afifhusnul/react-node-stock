@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import {Table, Row, Col, Button} from 'react-bootstrap';
+import {Table, Row, Col} from 'react-bootstrap';
 import Api from '../utils/Api';
 import Pagination from "../utils/Pagination";
 import ModalInfoResSup from './modal/ModalResSupport';
-import ModalKu from './modal/ModalKu';
+//import ModalKu from './modal/ModalKu';
 
 export default class MasterStock extends Component { 
   constructor(props) {
@@ -17,9 +17,9 @@ export default class MasterStock extends Component {
       totalPages: 0,
       pageLimit: 15,
       show: false,
-      tickerNew: undefined
-      
-    };    
+      tickerNew: undefined      
+    }
+    this.onModalClick = this.onModalClick.bind(this)
   }
 
   refModalInfo = ({handleShow}) => {
@@ -29,7 +29,7 @@ export default class MasterStock extends Component {
   }
  
   onModalClick = (tickerId) => {
-    this.setState({tickerNew : tickerId}, () => { console.log("Ticker Master: ", this.state.tickerNew)});
+    this.setState({tickerNew : tickerId, showModal: true}, () => { console.log("Ticker Master: ", this.state.tickerNew)});
     this.showModal();
   }
 
@@ -65,7 +65,7 @@ export default class MasterStock extends Component {
 
   const rows = trimmedData.map((single) => (     
     <tr key={single.id_ticker}>
-      <td onClick={this.onModalClick.bind(this, single.id_ticker)}><a href="/#master">{single.id_ticker}</a></td>
+      <td onClick={this.onModalClick.bind(this, single.id_ticker)}><a href="/#master">{single.id_ticker}</a></td>      
       <td>{single.nm_ticker}</td>
     </tr>
     )

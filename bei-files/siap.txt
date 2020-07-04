@@ -1,4 +1,0 @@
-http://www.idxdata.co.id/Download_Data/Daily/Stock_Summary/SS200529.zip
-http://www.idxdata.co.id/Download_Data/Daily/Stock_First_Trx/SO200529.zip
-http://www.idxdata.co.id/Download_Data/Daily/Foreign_Avail/FI200529.zip
-http://www.idxdata.co.id/Market_Summary/Stock_Quotation/SQ200529.TXT

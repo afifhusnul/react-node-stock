@@ -2,21 +2,14 @@ import React from 'react';
 import { Nav, Navbar,NavDropdown, Form, FormControl, Button} from 'react-bootstrap';
 import {HashRouter } from 'react-router-dom';
 
-// import Navbar from 'react-bootstrap/Navbar';
-// import Nav from 'react-bootstrap/Nav';
-// import NavDropdown from 'react-bootstrap/NavDropdown';
-// import Form from 'react-bootstrap/Form';
-// import FormControl from 'react-bootstrap/FormControl';
-// import Button from 'react-bootstrap/Button';
-
 export default class Header extends React.Component {
   render() {
     return (
       <HashRouter>
-      <Navbar bg="light" expand="lg">
+      <Navbar bg="light" expand="lg" class="navbar navbar-default">
         <Navbar.Brand href="/">Info Stock</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
+        <Navbar.Collapse id="basic-navbar-nav" >
           <Nav className="mr-auto">                        
             {/* <Nav.Link href="#master">Master Stock</Nav.Link> */}
             <NavDropdown title="Master Data" id="basic-nav-dropdown">
