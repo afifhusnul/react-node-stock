@@ -9,16 +9,19 @@ export default class ModalResSupport extends Component {
       this.handleShow = this.handleShow.bind(this);
       this.handleClose = this.handleClose.bind(this);
       this.state = {
-          show: false,          
+          show: false,
+          tickerNew: undefined,
           response: []
       }      
   }
   
   async handleShow() {    
-    this.setState({ show: true })      
+    this.setState({ show: true})
+    console.log(this.props.tickerId)
     try {
         const result = await Api.get("/stockinfo/wika")
-        console.log(result.data)
+        //console.log(result.data)
+        // console.log(this.state.tickerNew)
           if(result && result.data && result.data.response){            
             this.setState({ response: result.data.response })
           }      
@@ -79,7 +82,5 @@ export default class ModalResSupport extends Component {
       </Modal>
       )
   }
-
-
-  
+ 
 }

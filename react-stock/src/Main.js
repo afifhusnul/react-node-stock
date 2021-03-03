@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Header from './components/Header';
 import { Container } from "react-bootstrap";
 import {HashRouter, Route} from 'react-router-dom';
+import MasterTest from './components/views/MasterTest';
 import InfoData from './components/views/MasterData';
 import Master from './components/views/MasterStock';
 import Bull from './components/views/Bull';
@@ -17,11 +18,12 @@ export default class Main extends Component {
     return (
       <div>
         <Header />
-          <Container className="container-fluid">
+          <Container className="container-fluid mt-4">
             <div>              
 
               <div className="content">
                 <HashRouter>
+                  <Route path="/mastertest" component={MasterTest}/>
                   <Route path="/infodata" component={InfoData}/>
                   <Route path="/master" component={Master}/>
                   <Route path="/bull" component={Bull}/>

@@ -12,6 +12,11 @@ module.exports = {
   },
   getOne(id) {
     return knex('stock_master').where('id_ticker', id);
+  },
+  getStock(id, startDt, endDt) {
+    return knex('stock_trx_idx')
+    .where('id_ticker', id)
+    .whereBetween('dt_trx', [startDt, endDt]);
   }
   // create(stockmaster) {
   //   return knex('stock_master').insert(stockmaster, '*');

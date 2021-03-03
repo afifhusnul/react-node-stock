@@ -17,21 +17,21 @@ export default class MasterStock extends Component {
       totalPages: 0,
       pageLimit: 15,
       show: false,
-      tickerNew: undefined      
+      tickerNew: undefined
     }
     this.onModalClick = this.onModalClick.bind(this)
   }
 
   refModalInfo = ({handleShow}) => {
     this.showModal = handleShow;
-    //this.tickerNew = this.state.tickerId;
-    console.log("Ticker Master: ", this.state.tickerNew)
+    //console.log("Ticker Master: ", this.state.tickerNew)    
   }
  
   onModalClick = (tickerId) => {
-    this.setState({tickerNew : tickerId, showModal: true}, () => { console.log("Ticker Master: ", this.state.tickerNew)});
+    this.setState({showModal: true, tickerNew : tickerId }, () => { console.log("Ticker Master: ", this.state.tickerNew)});    
     this.showModal();
   }
+  
 
   
 
@@ -39,7 +39,7 @@ export default class MasterStock extends Component {
     const { pageLimit } = this.state
     try {
         const result = await Api.get("/stockmaster")
-        console.log(result.data)
+        //console.log(result.data)
           if(result && result.data && result.data.response){
             const trimmed = result.data.response.slice(0, pageLimit);
             this.setState({ response: result.data.response, trimmedData: trimmed })
@@ -65,8 +65,8 @@ export default class MasterStock extends Component {
 
   const rows = trimmedData.map((single) => (     
     <tr key={single.id_ticker}>
-      <td onClick={this.onModalClick.bind(this, single.id_ticker)}><a href="/#master">{single.id_ticker}</a></td>      
-      <td>{single.nm_ticker}</td>
+      <td onClick={this.onModalClick.bind(this, single.id_ticker)} ><a href="/#master">{single.id_ticker}</a></td>      
+      <td>{single.nm_ticker}</td>      
     </tr>
     )
   );
@@ -82,7 +82,8 @@ export default class MasterStock extends Component {
             <Pagination totalRecords={totalResponses} pageLimit={pageLimit} pageNeighbours={1} onPageChanged={this.onPageChanged} />
           </Col>
         </Row>
-        <ModalInfoResSup ref={this.refModalInfo}/>
+        <ModalInfoResSup ref={this.refModalInfo}/> 
+        
         
         
         <Table striped bordered hover size="sm">          

@@ -48,6 +48,9 @@ app.use('/api/reversal', reversalStock);
 const infoResSupportStock = require('./api/StockResSupport');
 app.use('/api/stockinfo', infoResSupportStock);
 
+const singleStock = require('./api/StockSingle');
+app.use('/api/stocksingle', singleStock);
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {  

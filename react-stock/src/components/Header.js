@@ -6,13 +6,14 @@ export default class Header extends React.Component {
   render() {
     return (
       <HashRouter>
-      <Navbar bg="light" expand="lg" class="navbar navbar-default">
+      <Navbar bg="light" expand="lg" className="navbar navbar-default">
         <Navbar.Brand href="/">Info Stock</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" >
           <Nav className="mr-auto">                        
             {/* <Nav.Link href="#master">Master Stock</Nav.Link> */}
             <NavDropdown title="Master Data" id="basic-nav-dropdown">
+              <NavDropdown.Item href="#MasterTest">Test Page</NavDropdown.Item>
               <NavDropdown.Item href="#infodata">Info data</NavDropdown.Item>
               <NavDropdown.Item href="#master">Master Stock</NavDropdown.Item>
             </NavDropdown>

@@ -8,10 +8,11 @@
     "moment": "^2.26.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
+    "react-bootstrap-date-picker": "^5.1.0",
     "react-dom": "^16.13.1",
     "react-loader-spinner": "^3.1.14",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^4.0.1",
     "react-stockcharts": "^0.7.8"
   },
   "scripts": {
@@ -37,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "babel-plugin-react-html-attrs": "^3.0.5",
     "minimist": "^1.2.5"
   },
   "resolutions": {
