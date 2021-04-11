@@ -3,6 +3,7 @@
 
 #--------- Define today's date
 todayDt=`date '+%y%m%d'`
+lifeFolder=/home/$USER/www/react-node-stock
 
 #----------- Define file
 fileSS=SS
@@ -16,12 +17,15 @@ dwl_1=Download_Data/Daily/Stock_Summary/SS
 dwl_2=Download_Data/Daily/Stock_First_Trx/SO
 dwl_3=Download_Data/Daily/Foreign_Avail/FI
 dwl_4=Market_Summary/Stock_Quotation/SQ
+#dbf2csv=/home/$USER/www/stock-latest/scripts/dbf2csv.py
+#loadData=/home/$USER/www/stock-latest/scripts/loadPg.sh
+#genAmibroker=/home/$USER/www/stock-latest/scripts/genAmibroker.sh
+#baseFolder=/home/$USER/www/stock-latest/bei-files
 
-#----------- Define Download Folder
-dbf2csv=/home/msa/www/stock/scripts/dbf2csv.py
-loadData=/home/msa/www/stock/scripts/loadPg.sh
-genAmibroker=/home/msa/www/stock/scripts/genAmibroker.sh
-baseFolder=/home/msa/www/stock/bei-files
+dbf2csv=$lifeFolder/scripts/dbf2csv.py
+loadData=$lifeFolder/scripts/loadPg.sh
+genAmibroker=$lifeFolder/scripts/genAmibroker.sh
+baseFolder=$lifeFolder/bei-files
 
 fileMasterStock=$baseFolder/insert/stockMaster.csv
 file1=$baseFolder/insert/stockTrxIdx.csv

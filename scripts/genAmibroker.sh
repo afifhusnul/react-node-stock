@@ -5,7 +5,7 @@ THE_USER=msa
 THE_DB=amibroker
 THE_TABLE1=stock_trx_idx
 PSQL=/usr/bin/psql
-THE_DIR=/home/msa/www/stock/bei-files/insert
+THE_DIR=/home/msa/www/react-node-stock/bei-files/insert
 
 logdate=`date '+%Y%m%d%H%m'`
 #echo $logdate

@@ -10,7 +10,7 @@ THE_TABLE3=stock_trx_nbsa
 THE_TABLE4=stock_trx_freq
 #PSQL=/snap/bin/postgresql10.psql
 PSQL=/usr/bin/psql
-THE_DIR=/home/msa/www/stock/bei-files/insert
+THE_DIR=/home/msa/www/react-node-stock/bei-files/insert
 THE_MASTER=$THE_DIR/stockMaster.csv
 THE_FILE1=$THE_DIR/stockTrxIdx.csv
 THE_FILE2=$THE_DIR/stockTrxOpen.csv
@@ -49,10 +49,10 @@ TRUNCATE ${THE_TABLE3};
 OMG
 
 #------------------- Process Table Freq
-echo " ------------- Table Freq ------------"
-${PSQL} -U ${THE_USER} ${THE_DB} <<OMG
-TRUNCATE ${THE_TABLE4};
-\COPY ${THE_TABLE4} FROM '${THE_FILE4}' delimiter '|' csv;
+#echo " ------------- Table Freq ------------"
+#${PSQL} -U ${THE_USER} ${THE_DB} <<OMG
+#TRUNCATE ${THE_TABLE4};
+#\COPY ${THE_TABLE4} FROM '${THE_FILE4}' delimiter '|' csv;
 OMG
 
 #------------------- Refresh SP
